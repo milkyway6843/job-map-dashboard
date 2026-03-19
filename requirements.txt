@@ -7,3 +7,5 @@ plotly
 psutil
 transformers
 gunicorn
+torch
+ipython
