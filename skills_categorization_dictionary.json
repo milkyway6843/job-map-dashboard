@@ -1,0 +1,6136 @@
+{
+  "categories": {
+    "Programming Languages": [
+      {
+        "skill": "Bash",
+        "count": 52
+      },
+      {
+        "skill": "Bash Scripting",
+        "count": 3
+      },
+      {
+        "skill": "Basic Programming",
+        "count": 3
+      },
+      {
+        "skill": "Basic Programming Skills",
+        "count": 4
+      },
+      {
+        "skill": "Block Programming",
+        "count": 2
+      },
+      {
+        "skill": "C#",
+        "count": 181
+      },
+      {
+        "skill": "C++",
+        "count": 672
+      },
+      {
+        "skill": "Cloud Programming",
+        "count": 2
+      },
+      {
+        "skill": "Cnc Programming",
+        "count": 2
+      },
+      {
+        "skill": "Computer Programming",
+        "count": 4
+      },
+      {
+        "skill": "Core Programming Concepts",
+        "count": 2
+      },
+      {
+        "skill": "Cpython Programming",
+        "count": 2
+      },
+      {
+        "skill": "Embedded Programming",
+        "count": 2
+      },
+      {
+        "skill": "Go",
+        "count": 143
+      },
+      {
+        "skill": "Java",
+        "count": 576
+      },
+      {
+        "skill": "Java Ee",
+        "count": 4
+      },
+      {
+        "skill": "Java Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "JavaScript",
+        "count": 405
+      },
+      {
+        "skill": "Javascript Frameworks",
+        "count": 4
+      },
+      {
+        "skill": "Javascript Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Kotlin",
+        "count": 47
+      },
+      {
+        "skill": "Microcontroller Programming",
+        "count": 3
+      },
+      {
+        "skill": "Modern Programming Language",
+        "count": 2
+      },
+      {
+        "skill": "Modern object-oriented programming languages",
+        "count": 3
+      },
+      {
+        "skill": "More Programming Languages",
+        "count": 2
+      },
+      {
+        "skill": "Multiple programming languages",
+        "count": 2
+      },
+      {
+        "skill": "Object Oriented Programming",
+        "count": 5
+      },
+      {
+        "skill": "Object-Oriented Programming",
+        "count": 8
+      },
+      {
+        "skill": "Object-oriented programming language",
+        "count": 3
+      },
+      {
+        "skill": "Other Programming Language",
+        "count": 2
+      },
+      {
+        "skill": "Perl",
+        "count": 81
+      },
+      {
+        "skill": "Programming",
+        "count": 29
+      },
+      {
+        "skill": "Programming Concepts",
+        "count": 2
+      },
+      {
+        "skill": "Programming Language",
+        "count": 6
+      },
+      {
+        "skill": "Programming Languages",
+        "count": 19
+      },
+      {
+        "skill": "Programming Skills",
+        "count": 3
+      },
+      {
+        "skill": "Python",
+        "count": 1930
+      },
+      {
+        "skill": "R",
+        "count": 1
+      },
+      {
+        "skill": "Robotic Programming",
+        "count": 2
+      },
+      {
+        "skill": "Ruby",
+        "count": 55
+      },
+      {
+        "skill": "Rust",
+        "count": 56
+      },
+      {
+        "skill": "SQL",
+        "count": 723
+      },
+      {
+        "skill": "Scala",
+        "count": 34
+      },
+      {
+        "skill": "Scripting",
+        "count": 17
+      },
+      {
+        "skill": "Scripting Language",
+        "count": 4
+      },
+      {
+        "skill": "Scripting Languages",
+        "count": 8
+      },
+      {
+        "skill": "Shell Script",
+        "count": 4
+      },
+      {
+        "skill": "Shell Scripting",
+        "count": 12
+      },
+      {
+        "skill": "Shell Scripts",
+        "count": 4
+      },
+      {
+        "skill": "Software Programming",
+        "count": 3
+      },
+      {
+        "skill": "Strong Programming Skills",
+        "count": 2
+      },
+      {
+        "skill": "Swift",
+        "count": 24
+      },
+      {
+        "skill": "Type Script",
+        "count": 2
+      },
+      {
+        "skill": "Typescript",
+        "count": 108
+      },
+      {
+        "skill": "Various Programming Languages",
+        "count": 2
+      },
+      {
+        "skill": "object-oriented programming languages",
+        "count": 3
+      }
+    ],
+    "Microsoft Office": [
+      {
+        "skill": "Access",
+        "count": 80
+      },
+      {
+        "skill": "Excel",
+        "count": 2869
+      },
+      {
+        "skill": "Excellent Computer Skills",
+        "count": 3
+      },
+      {
+        "skill": "Google Office Suite",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft",
+        "count": 31
+      },
+      {
+        "skill": "Microsoft .Net",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft 365 Applications",
+        "count": 4
+      },
+      {
+        "skill": "Microsoft 365 Suite",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft 365 Tools",
+        "count": 3
+      },
+      {
+        "skill": "Microsoft Access",
+        "count": 4
+      },
+      {
+        "skill": "Microsoft Business Software",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Dynamics 365",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft O365 Suite",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Office 365",
+        "count": 14
+      },
+      {
+        "skill": "Microsoft Office Applications",
+        "count": 60
+      },
+      {
+        "skill": "Microsoft Office Products",
+        "count": 47
+      },
+      {
+        "skill": "Microsoft Office Programs",
+        "count": 21
+      },
+      {
+        "skill": "Microsoft Office Software",
+        "count": 10
+      },
+      {
+        "skill": "Microsoft Office Suite",
+        "count": 2851
+      },
+      {
+        "skill": "Microsoft Office Suites",
+        "count": 3
+      },
+      {
+        "skill": "Microsoft Office Tools",
+        "count": 39
+      },
+      {
+        "skill": "Microsoft Office tools including Outlook",
+        "count": 3
+      },
+      {
+        "skill": "Microsoft Os",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Outlook",
+        "count": 24
+      },
+      {
+        "skill": "Microsoft Power Platform",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Product Suite",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Products",
+        "count": 9
+      },
+      {
+        "skill": "Microsoft Sharepoint",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Sql",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Suite Of Products",
+        "count": 2
+      },
+      {
+        "skill": "Microsoft Suite Programs",
+        "count": 4
+      },
+      {
+        "skill": "Microsoft Suites",
+        "count": 9
+      },
+      {
+        "skill": "Microsoft Teams",
+        "count": 13
+      },
+      {
+        "skill": "Microsoft Tools",
+        "count": 8
+      },
+      {
+        "skill": "Microsoft Visio",
+        "count": 3
+      },
+      {
+        "skill": "Microsoft Visual Studio",
+        "count": 3
+      },
+      {
+        "skill": "Microsoft Windows Os",
+        "count": 4
+      },
+      {
+        "skill": "Microsoft desktop applications",
+        "count": 2
+      },
+      {
+        "skill": "Ms Office 2016",
+        "count": 2
+      },
+      {
+        "skill": "Ms Office Applications",
+        "count": 24
+      },
+      {
+        "skill": "Ms Office Products",
+        "count": 8
+      },
+      {
+        "skill": "Ms Office Programs",
+        "count": 12
+      },
+      {
+        "skill": "Ms Office Suite Applications",
+        "count": 3
+      },
+      {
+        "skill": "Ms Office Suite: Outlook",
+        "count": 3
+      },
+      {
+        "skill": "Ms Office Tools",
+        "count": 6
+      },
+      {
+        "skill": "Ms-Office",
+        "count": 2
+      },
+      {
+        "skill": "Office",
+        "count": 17
+      },
+      {
+        "skill": "Office 365 Suite",
+        "count": 2
+      },
+      {
+        "skill": "Office Automation",
+        "count": 22
+      },
+      {
+        "skill": "Office Equipment",
+        "count": 5
+      },
+      {
+        "skill": "Office Software Suites",
+        "count": 2
+      },
+      {
+        "skill": "Outlook",
+        "count": 417
+      },
+      {
+        "skill": "PowerPoint",
+        "count": 1498
+      },
+      {
+        "skill": "Proficiency in Microsoft Office",
+        "count": 3
+      },
+      {
+        "skill": "Proficiency in Microsoft Office Suite",
+        "count": 3
+      },
+      {
+        "skill": "Project",
+        "count": 16
+      },
+      {
+        "skill": "Standard Office Software",
+        "count": 2
+      },
+      {
+        "skill": "Teams",
+        "count": 59
+      },
+      {
+        "skill": "Visio",
+        "count": 56
+      },
+      {
+        "skill": "Windows Office Applications",
+        "count": 3
+      },
+      {
+        "skill": "Word",
+        "count": 1294
+      }
+    ],
+    "Data Science & Analytics": [
+      {
+        "skill": "AI/ML",
+        "count": 10
+      },
+      {
+        "skill": "Access Database",
+        "count": 3
+      },
+      {
+        "skill": "Adobe Analytics",
+        "count": 3
+      },
+      {
+        "skill": "Ai Algorithms",
+        "count": 2
+      },
+      {
+        "skill": "Ai Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Ai Technologies",
+        "count": 3
+      },
+      {
+        "skill": "Ai Tools",
+        "count": 20
+      },
+      {
+        "skill": "Airflow",
+        "count": 11
+      },
+      {
+        "skill": "Airtable",
+        "count": 4
+      },
+      {
+        "skill": "Analytics",
+        "count": 5
+      },
+      {
+        "skill": "Analytics Tools",
+        "count": 11
+      },
+      {
+        "skill": "Big Data",
+        "count": 2
+      },
+      {
+        "skill": "Big Data Tools",
+        "count": 3
+      },
+      {
+        "skill": "Business Analytics",
+        "count": 2
+      },
+      {
+        "skill": "Chainer",
+        "count": 2
+      },
+      {
+        "skill": "Computer Aided Design",
+        "count": 3
+      },
+      {
+        "skill": "Computer Aided Drafting",
+        "count": 3
+      },
+      {
+        "skill": "Computer-Aided Design",
+        "count": 2
+      },
+      {
+        "skill": "Containers",
+        "count": 2
+      },
+      {
+        "skill": "Data Analysis",
+        "count": 61
+      },
+      {
+        "skill": "Data Analysis Software",
+        "count": 6
+      },
+      {
+        "skill": "Data Analysis Tools",
+        "count": 35
+      },
+      {
+        "skill": "Data Entry",
+        "count": 3
+      },
+      {
+        "skill": "Data Entry Skills",
+        "count": 4
+      },
+      {
+        "skill": "Data Entry Software",
+        "count": 2
+      },
+      {
+        "skill": "Data Integration",
+        "count": 2
+      },
+      {
+        "skill": "Data Libraries",
+        "count": 2
+      },
+      {
+        "skill": "Data Management",
+        "count": 4
+      },
+      {
+        "skill": "Data Management Tools",
+        "count": 4
+      },
+      {
+        "skill": "Data Manipulation",
+        "count": 2
+      },
+      {
+        "skill": "Data Mining",
+        "count": 4
+      },
+      {
+        "skill": "Data Modeling",
+        "count": 4
+      },
+      {
+        "skill": "Data Science",
+        "count": 6
+      },
+      {
+        "skill": "Data Science Tools",
+        "count": 3
+      },
+      {
+        "skill": "Data Structures",
+        "count": 12
+      },
+      {
+        "skill": "Data Visualization",
+        "count": 9
+      },
+      {
+        "skill": "Data Visualization Software",
+        "count": 10
+      },
+      {
+        "skill": "Data Visualization Techniques",
+        "count": 2
+      },
+      {
+        "skill": "Data Visualization Tools",
+        "count": 38
+      },
+      {
+        "skill": "Data Visualizations",
+        "count": 2
+      },
+      {
+        "skill": "Data Warehousing",
+        "count": 2
+      },
+      {
+        "skill": "Database",
+        "count": 15
+      },
+      {
+        "skill": "Database Concepts",
+        "count": 6
+      },
+      {
+        "skill": "Database Design",
+        "count": 2
+      },
+      {
+        "skill": "Database Management",
+        "count": 12
+      },
+      {
+        "skill": "Database Management Systems",
+        "count": 7
+      },
+      {
+        "skill": "Database Queries",
+        "count": 2
+      },
+      {
+        "skill": "Database Software",
+        "count": 4
+      },
+      {
+        "skill": "Database Systems",
+        "count": 5
+      },
+      {
+        "skill": "Database Tools",
+        "count": 2
+      },
+      {
+        "skill": "Databases",
+        "count": 46
+      },
+      {
+        "skill": "Databricks",
+        "count": 15
+      },
+      {
+        "skill": "Datastudio",
+        "count": 3
+      },
+      {
+        "skill": "E-Mail",
+        "count": 2
+      },
+      {
+        "skill": "Electronic Data Capture",
+        "count": 2
+      },
+      {
+        "skill": "Email",
+        "count": 7
+      },
+      {
+        "skill": "Email Marketing",
+        "count": 4
+      },
+      {
+        "skill": "Firebase Analytics",
+        "count": 3
+      },
+      {
+        "skill": "First Aid Certification",
+        "count": 2
+      },
+      {
+        "skill": "Gen Ai",
+        "count": 2
+      },
+      {
+        "skill": "Genai",
+        "count": 2
+      },
+      {
+        "skill": "Generative Ai",
+        "count": 7
+      },
+      {
+        "skill": "Gmail",
+        "count": 4
+      },
+      {
+        "skill": "Google Analytics",
+        "count": 44
+      },
+      {
+        "skill": "Google Data Studio",
+        "count": 2
+      },
+      {
+        "skill": "Hr Databases",
+        "count": 2
+      },
+      {
+        "skill": "Jupyter",
+        "count": 2
+      },
+      {
+        "skill": "Keras",
+        "count": 16
+      },
+      {
+        "skill": "Langchain",
+        "count": 8
+      },
+      {
+        "skill": "Llamaindex",
+        "count": 2
+      },
+      {
+        "skill": "Machine Learning",
+        "count": 77
+      },
+      {
+        "skill": "Machine Learning Algorithms",
+        "count": 7
+      },
+      {
+        "skill": "Machine Learning Concepts",
+        "count": 7
+      },
+      {
+        "skill": "Machine Learning Frameworks",
+        "count": 3
+      },
+      {
+        "skill": "Machine Learning Libraries",
+        "count": 2
+      },
+      {
+        "skill": "Machine Learning Methods",
+        "count": 2
+      },
+      {
+        "skill": "Machine Learning Tools",
+        "count": 3
+      },
+      {
+        "skill": "Mailchimp",
+        "count": 3
+      },
+      {
+        "skill": "Modern Generative Ai Tools",
+        "count": 2
+      },
+      {
+        "skill": "Ms Sql Database",
+        "count": 2
+      },
+      {
+        "skill": "No-Sql Databases",
+        "count": 3
+      },
+      {
+        "skill": "Non-Relational Databases",
+        "count": 5
+      },
+      {
+        "skill": "Nosql Databases",
+        "count": 8
+      },
+      {
+        "skill": "Openai",
+        "count": 3
+      },
+      {
+        "skill": "Oracle Database",
+        "count": 2
+      },
+      {
+        "skill": "Other Data Analysis Tools",
+        "count": 3
+      },
+      {
+        "skill": "Pandas",
+        "count": 45
+      },
+      {
+        "skill": "Power BI",
+        "count": 310
+      },
+      {
+        "skill": "PyTorch",
+        "count": 232
+      },
+      {
+        "skill": "Relational Database",
+        "count": 2
+      },
+      {
+        "skill": "Relational Databases",
+        "count": 12
+      },
+      {
+        "skill": "Retail Math",
+        "count": 2
+      },
+      {
+        "skill": "Ruby On Rails",
+        "count": 8
+      },
+      {
+        "skill": "Sap Analytics Cloud",
+        "count": 4
+      },
+      {
+        "skill": "Sap Concur Data Model",
+        "count": 2
+      },
+      {
+        "skill": "Scikit-Learn",
+        "count": 44
+      },
+      {
+        "skill": "Sql Databases",
+        "count": 5
+      },
+      {
+        "skill": "Stata",
+        "count": 15
+      },
+      {
+        "skill": "Tableau",
+        "count": 246
+      },
+      {
+        "skill": "TensorFlow",
+        "count": 161
+      }
+    ],
+    "Web Development": [
+      {
+        "skill": ".NET",
+        "count": 71
+      },
+      {
+        "skill": "Angular",
+        "count": 78
+      },
+      {
+        "skill": "Bootstrap",
+        "count": 5
+      },
+      {
+        "skill": "Django",
+        "count": 11
+      },
+      {
+        "skill": "Express",
+        "count": 5
+      },
+      {
+        "skill": "Flask",
+        "count": 7
+      },
+      {
+        "skill": "Laravel",
+        "count": 2
+      },
+      {
+        "skill": "Node.js",
+        "count": 62
+      },
+      {
+        "skill": "React",
+        "count": 156
+      },
+      {
+        "skill": "Spring",
+        "count": 7
+      },
+      {
+        "skill": "Vue.js",
+        "count": 28
+      }
+    ],
+    "Cloud & DevOps": [
+      {
+        "skill": "AWS",
+        "count": 159
+      },
+      {
+        "skill": "Ansible",
+        "count": 10
+      },
+      {
+        "skill": "Azure",
+        "count": 84
+      },
+      {
+        "skill": "Docker",
+        "count": 36
+      },
+      {
+        "skill": "Google Cloud Platform",
+        "count": 86
+      },
+      {
+        "skill": "Jenkins",
+        "count": 19
+      },
+      {
+        "skill": "Kubernetes",
+        "count": 27
+      },
+      {
+        "skill": "Terraform",
+        "count": 27
+      }
+    ],
+    "Design Software": [
+      {
+        "skill": "3D CAD",
+        "count": 34
+      },
+      {
+        "skill": "3D Cad Modeling Software",
+        "count": 3
+      },
+      {
+        "skill": "3D Cad Modeling Systems",
+        "count": 3
+      },
+      {
+        "skill": "3D Cad Packages",
+        "count": 2
+      },
+      {
+        "skill": "3D Modeling",
+        "count": 24
+      },
+      {
+        "skill": "3D Printing",
+        "count": 21
+      },
+      {
+        "skill": "3D Rendering",
+        "count": 4
+      },
+      {
+        "skill": "3ds Max",
+        "count": 9
+      },
+      {
+        "skill": "Acad",
+        "count": 2
+      },
+      {
+        "skill": "Acade",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Creative Suite",
+        "count": 231
+      },
+      {
+        "skill": "After Effects",
+        "count": 31
+      },
+      {
+        "skill": "Auto-Cad",
+        "count": 2
+      },
+      {
+        "skill": "AutoCAD",
+        "count": 364
+      },
+      {
+        "skill": "Autocad 2D",
+        "count": 2
+      },
+      {
+        "skill": "Autocad Civil 3D",
+        "count": 14
+      },
+      {
+        "skill": "Autocad Electrical",
+        "count": 2
+      },
+      {
+        "skill": "Autocad Land Desktop",
+        "count": 3
+      },
+      {
+        "skill": "Autodesk Autocad",
+        "count": 7
+      },
+      {
+        "skill": "Autodesk Civil 3D",
+        "count": 2
+      },
+      {
+        "skill": "Bentley?€?S Stormcad",
+        "count": 2
+      },
+      {
+        "skill": "Blender",
+        "count": 12
+      },
+      {
+        "skill": "Building Information Modeling",
+        "count": 5
+      },
+      {
+        "skill": "Cad",
+        "count": 120
+      },
+      {
+        "skill": "Cad Design",
+        "count": 2
+      },
+      {
+        "skill": "Cad Modeling",
+        "count": 4
+      },
+      {
+        "skill": "Cad Modeling Software",
+        "count": 2
+      },
+      {
+        "skill": "Cad Program",
+        "count": 3
+      },
+      {
+        "skill": "Cad Programs",
+        "count": 3
+      },
+      {
+        "skill": "Cad Software",
+        "count": 96
+      },
+      {
+        "skill": "Cad Systems",
+        "count": 3
+      },
+      {
+        "skill": "Cad Tools",
+        "count": 10
+      },
+      {
+        "skill": "Cadd",
+        "count": 4
+      },
+      {
+        "skill": "Cadence",
+        "count": 6
+      },
+      {
+        "skill": "Cadence Orcad",
+        "count": 3
+      },
+      {
+        "skill": "Cadence Tools",
+        "count": 5
+      },
+      {
+        "skill": "Cadence Virtuoso",
+        "count": 9
+      },
+      {
+        "skill": "Canva",
+        "count": 113
+      },
+      {
+        "skill": "Cinema 4D",
+        "count": 3
+      },
+      {
+        "skill": "Civil 3D",
+        "count": 33
+      },
+      {
+        "skill": "Civil3D",
+        "count": 5
+      },
+      {
+        "skill": "Figma",
+        "count": 145
+      },
+      {
+        "skill": "Financial Modeling",
+        "count": 22
+      },
+      {
+        "skill": "Hydrocad",
+        "count": 4
+      },
+      {
+        "skill": "Illustrator",
+        "count": 187
+      },
+      {
+        "skill": "Illustrator Cad",
+        "count": 5
+      },
+      {
+        "skill": "Kicad",
+        "count": 2
+      },
+      {
+        "skill": "Mathcad",
+        "count": 2
+      },
+      {
+        "skill": "Maya",
+        "count": 14
+      },
+      {
+        "skill": "Mep Autocad",
+        "count": 10
+      },
+      {
+        "skill": "Modeling",
+        "count": 11
+      },
+      {
+        "skill": "Modeling Software",
+        "count": 2
+      },
+      {
+        "skill": "Modeling Tools",
+        "count": 2
+      },
+      {
+        "skill": "Or Autocad",
+        "count": 2
+      },
+      {
+        "skill": "Photoshop",
+        "count": 190
+      },
+      {
+        "skill": "Premiere Pro",
+        "count": 10
+      },
+      {
+        "skill": "Pscad",
+        "count": 4
+      },
+      {
+        "skill": "Revit",
+        "count": 191
+      },
+      {
+        "skill": "Revit Modeling",
+        "count": 3
+      },
+      {
+        "skill": "Rhino",
+        "count": 25
+      },
+      {
+        "skill": "Rscad",
+        "count": 3
+      },
+      {
+        "skill": "Sketch",
+        "count": 34
+      },
+      {
+        "skill": "Solid Modeling",
+        "count": 2
+      },
+      {
+        "skill": "SolidWorks",
+        "count": 149
+      },
+      {
+        "skill": "Solidworks Cad",
+        "count": 4
+      },
+      {
+        "skill": "Sprite Animations",
+        "count": 2
+      },
+      {
+        "skill": "Statistical Modeling",
+        "count": 9
+      },
+      {
+        "skill": "Trane 3D Plus",
+        "count": 2
+      }
+    ],
+    "Database": [
+      {
+        "skill": "Cassandra",
+        "count": 2
+      },
+      {
+        "skill": "Elasticsearch",
+        "count": 4
+      },
+      {
+        "skill": "MySQL",
+        "count": 36
+      },
+      {
+        "skill": "NoSQL",
+        "count": 14
+      },
+      {
+        "skill": "Oracle",
+        "count": 33
+      },
+      {
+        "skill": "PostgreSQL",
+        "count": 28
+      },
+      {
+        "skill": "Redis",
+        "count": 4
+      },
+      {
+        "skill": "SQL Server",
+        "count": 23
+      }
+    ],
+    "Project Management": [
+      {
+        "skill": "Agile",
+        "count": 16
+      },
+      {
+        "skill": "Asana",
+        "count": 15
+      },
+      {
+        "skill": "Basecamp",
+        "count": 2
+      },
+      {
+        "skill": "Confluence",
+        "count": 19
+      },
+      {
+        "skill": "Jira",
+        "count": 58
+      },
+      {
+        "skill": "Microsoft Project",
+        "count": 8
+      },
+      {
+        "skill": "Scrum",
+        "count": 6
+      },
+      {
+        "skill": "Smartsheet",
+        "count": 15
+      },
+      {
+        "skill": "Trello",
+        "count": 2
+      }
+    ],
+    "Other Skills": [
+      {
+        "skill": "10",
+        "count": 4
+      },
+      {
+        "skill": "11",
+        "count": 12
+      },
+      {
+        "skill": "2D",
+        "count": 10
+      },
+      {
+        "skill": "3-D Max",
+        "count": 4
+      },
+      {
+        "skill": "5S",
+        "count": 3
+      },
+      {
+        "skill": "6 Sigma",
+        "count": 2
+      },
+      {
+        "skill": "8D",
+        "count": 2
+      },
+      {
+        "skill": "Abap",
+        "count": 2
+      },
+      {
+        "skill": "Abaqus",
+        "count": 2
+      },
+      {
+        "skill": "Ableton",
+        "count": 2
+      },
+      {
+        "skill": "Accounting",
+        "count": 21
+      },
+      {
+        "skill": "Accounting Principles",
+        "count": 2
+      },
+      {
+        "skill": "Accounting Software",
+        "count": 11
+      },
+      {
+        "skill": "Acl",
+        "count": 2
+      },
+      {
+        "skill": "Acrobat",
+        "count": 2
+      },
+      {
+        "skill": "Acrobat Pro",
+        "count": 2
+      },
+      {
+        "skill": "Active Directory",
+        "count": 7
+      },
+      {
+        "skill": "Adc",
+        "count": 2
+      },
+      {
+        "skill": "Ade",
+        "count": 3
+      },
+      {
+        "skill": "Ado",
+        "count": 3
+      },
+      {
+        "skill": "Adobe",
+        "count": 17
+      },
+      {
+        "skill": "Adobe Acrobat",
+        "count": 17
+      },
+      {
+        "skill": "Adobe After Effects",
+        "count": 12
+      },
+      {
+        "skill": "Adobe Captivate",
+        "count": 4
+      },
+      {
+        "skill": "Adobe Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Creative Applications",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Creative Cloud",
+        "count": 26
+      },
+      {
+        "skill": "Adobe Creative Cloud Suite",
+        "count": 5
+      },
+      {
+        "skill": "Adobe Creative Suite: InDesign",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Cs",
+        "count": 4
+      },
+      {
+        "skill": "Adobe Express",
+        "count": 2
+      },
+      {
+        "skill": "Adobe In-Design",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Indesign",
+        "count": 17
+      },
+      {
+        "skill": "Adobe Marketing Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Photo-Suite",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Premiere",
+        "count": 17
+      },
+      {
+        "skill": "Adobe Premiere Pro",
+        "count": 21
+      },
+      {
+        "skill": "Adobe Software",
+        "count": 2
+      },
+      {
+        "skill": "Adobe Suite",
+        "count": 53
+      },
+      {
+        "skill": "Adobe Xd",
+        "count": 22
+      },
+      {
+        "skill": "Advanced Computer Skills",
+        "count": 5
+      },
+      {
+        "skill": "Agents",
+        "count": 2
+      },
+      {
+        "skill": "Agile Development Processes",
+        "count": 2
+      },
+      {
+        "skill": "Agile Methodologies",
+        "count": 4
+      },
+      {
+        "skill": "Agile development methodologies",
+        "count": 2
+      },
+      {
+        "skill": "Ajax",
+        "count": 3
+      },
+      {
+        "skill": "Algorithms",
+        "count": 12
+      },
+      {
+        "skill": "Allegro",
+        "count": 4
+      },
+      {
+        "skill": "Alteryx",
+        "count": 31
+      },
+      {
+        "skill": "Altium",
+        "count": 8
+      },
+      {
+        "skill": "Altium Designer",
+        "count": 7
+      },
+      {
+        "skill": "Amplitude",
+        "count": 6
+      },
+      {
+        "skill": "Analog",
+        "count": 3
+      },
+      {
+        "skill": "Analysis",
+        "count": 7
+      },
+      {
+        "skill": "Analysis Tools",
+        "count": 2
+      },
+      {
+        "skill": "Analytical",
+        "count": 2
+      },
+      {
+        "skill": "Analytical Tools",
+        "count": 4
+      },
+      {
+        "skill": "And",
+        "count": 6
+      },
+      {
+        "skill": "Android",
+        "count": 11
+      },
+      {
+        "skill": "Android Sdk",
+        "count": 3
+      },
+      {
+        "skill": "Android Studio",
+        "count": 3
+      },
+      {
+        "skill": "Ansi Sql",
+        "count": 4
+      },
+      {
+        "skill": "Ansys",
+        "count": 9
+      },
+      {
+        "skill": "Ansys Hfss",
+        "count": 3
+      },
+      {
+        "skill": "Antivirus Software",
+        "count": 2
+      },
+      {
+        "skill": "Apache Hop",
+        "count": 2
+      },
+      {
+        "skill": "Apache Spark",
+        "count": 3
+      },
+      {
+        "skill": "Apache Tvm",
+        "count": 2
+      },
+      {
+        "skill": "Api",
+        "count": 3
+      },
+      {
+        "skill": "Api Development",
+        "count": 2
+      },
+      {
+        "skill": "Api Integration",
+        "count": 2
+      },
+      {
+        "skill": "Api Integrations",
+        "count": 2
+      },
+      {
+        "skill": "Api Usage",
+        "count": 2
+      },
+      {
+        "skill": "Api?€?S",
+        "count": 2
+      },
+      {
+        "skill": "Apis",
+        "count": 12
+      },
+      {
+        "skill": "App Development",
+        "count": 2
+      },
+      {
+        "skill": "Appium",
+        "count": 5
+      },
+      {
+        "skill": "Apple",
+        "count": 2
+      },
+      {
+        "skill": "Apple Hardware",
+        "count": 2
+      },
+      {
+        "skill": "Applicant Tracking Systems",
+        "count": 2
+      },
+      {
+        "skill": "Application Security",
+        "count": 2
+      },
+      {
+        "skill": "Applications",
+        "count": 10
+      },
+      {
+        "skill": "Arbortext",
+        "count": 2
+      },
+      {
+        "skill": "Arcgis",
+        "count": 39
+      },
+      {
+        "skill": "Arcgis Online",
+        "count": 6
+      },
+      {
+        "skill": "Arcgis Pro",
+        "count": 5
+      },
+      {
+        "skill": "Archgis",
+        "count": 2
+      },
+      {
+        "skill": "Architectural Software",
+        "count": 2
+      },
+      {
+        "skill": "Archivera",
+        "count": 2
+      },
+      {
+        "skill": "Arcpy",
+        "count": 2
+      },
+      {
+        "skill": "Arduino",
+        "count": 10
+      },
+      {
+        "skill": "Ariba",
+        "count": 4
+      },
+      {
+        "skill": "Articulate",
+        "count": 8
+      },
+      {
+        "skill": "Articulate 360",
+        "count": 4
+      },
+      {
+        "skill": "Articulate Storyline",
+        "count": 2
+      },
+      {
+        "skill": "As400",
+        "count": 2
+      },
+      {
+        "skill": "Asp",
+        "count": 2
+      },
+      {
+        "skill": "Aspen Plus",
+        "count": 3
+      },
+      {
+        "skill": "Assembly",
+        "count": 4
+      },
+      {
+        "skill": "Asset Management Systems",
+        "count": 2
+      },
+      {
+        "skill": "Associated Software",
+        "count": 3
+      },
+      {
+        "skill": "Athena",
+        "count": 2
+      },
+      {
+        "skill": "Atlassian Tools",
+        "count": 2
+      },
+      {
+        "skill": "Ats",
+        "count": 4
+      },
+      {
+        "skill": "Audio",
+        "count": 2
+      },
+      {
+        "skill": "Audio Editing",
+        "count": 4
+      },
+      {
+        "skill": "Audio Recording Software",
+        "count": 2
+      },
+      {
+        "skill": "Audition",
+        "count": 2
+      },
+      {
+        "skill": "Autodesk Inventor",
+        "count": 4
+      },
+      {
+        "skill": "Autodesk Maya",
+        "count": 2
+      },
+      {
+        "skill": "Autodesk Revit",
+        "count": 4
+      },
+      {
+        "skill": "Autodesk Revit Mep",
+        "count": 2
+      },
+      {
+        "skill": "Autodesk Suite",
+        "count": 20
+      },
+      {
+        "skill": "Autogen",
+        "count": 2
+      },
+      {
+        "skill": "Automated Testing",
+        "count": 2
+      },
+      {
+        "skill": "Automated Unit Testing",
+        "count": 2
+      },
+      {
+        "skill": "Automation",
+        "count": 10
+      },
+      {
+        "skill": "Automation Anywhere",
+        "count": 2
+      },
+      {
+        "skill": "Automation Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Automation Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Automation Tools",
+        "count": 4
+      },
+      {
+        "skill": "Autonomous Mobile Robots",
+        "count": 2
+      },
+      {
+        "skill": "Autoturn",
+        "count": 4
+      },
+      {
+        "skill": "Avid",
+        "count": 2
+      },
+      {
+        "skill": "Aws Cloud Services",
+        "count": 2
+      },
+      {
+        "skill": "Aws Quicksight",
+        "count": 2
+      },
+      {
+        "skill": "Aws Redshift",
+        "count": 3
+      },
+      {
+        "skill": "Aws S3",
+        "count": 2
+      },
+      {
+        "skill": "Aws Services",
+        "count": 8
+      },
+      {
+        "skill": "Azure Devops",
+        "count": 5
+      },
+      {
+        "skill": "Azure Services",
+        "count": 3
+      },
+      {
+        "skill": "Banner",
+        "count": 8
+      },
+      {
+        "skill": "Bar-Coding Technology",
+        "count": 2
+      },
+      {
+        "skill": "Basic Computer",
+        "count": 10
+      },
+      {
+        "skill": "Basic Computer Applications",
+        "count": 2
+      },
+      {
+        "skill": "Basic Computer Skills",
+        "count": 36
+      },
+      {
+        "skill": "Basic Computer Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Basic Hand Tools",
+        "count": 2
+      },
+      {
+        "skill": "Basic Math",
+        "count": 6
+      },
+      {
+        "skill": "Basic Proficiency",
+        "count": 4
+      },
+      {
+        "skill": "Basic knowledge of animal handling",
+        "count": 2
+      },
+      {
+        "skill": "Beautiful Soup",
+        "count": 2
+      },
+      {
+        "skill": "Bi",
+        "count": 2
+      },
+      {
+        "skill": "Bi Software",
+        "count": 2
+      },
+      {
+        "skill": "Bi Tools",
+        "count": 3
+      },
+      {
+        "skill": "Big Query",
+        "count": 2
+      },
+      {
+        "skill": "Bigquery",
+        "count": 8
+      },
+      {
+        "skill": "Bim",
+        "count": 24
+      },
+      {
+        "skill": "Biochemistry",
+        "count": 3
+      },
+      {
+        "skill": "Bitbucket",
+        "count": 7
+      },
+      {
+        "skill": "Bloomberg",
+        "count": 15
+      },
+      {
+        "skill": "Bluebeam",
+        "count": 19
+      },
+      {
+        "skill": "Braze",
+        "count": 2
+      },
+      {
+        "skill": "Bridge",
+        "count": 4
+      },
+      {
+        "skill": "Brightspace",
+        "count": 2
+      },
+      {
+        "skill": "Btp",
+        "count": 2
+      },
+      {
+        "skill": "Business Intelligence",
+        "count": 7
+      },
+      {
+        "skill": "Business Intelligence Tools",
+        "count": 9
+      },
+      {
+        "skill": "Business Intelligence reporting tools",
+        "count": 6
+      },
+      {
+        "skill": "Business Objects",
+        "count": 3
+      },
+      {
+        "skill": "Business-related software applications",
+        "count": 3
+      },
+      {
+        "skill": "C Code",
+        "count": 2
+      },
+      {
+        "skill": "C#.Net",
+        "count": 2
+      },
+      {
+        "skill": "C+",
+        "count": 3
+      },
+      {
+        "skill": "Caffe",
+        "count": 8
+      },
+      {
+        "skill": "Calculation Software",
+        "count": 2
+      },
+      {
+        "skill": "Calculator",
+        "count": 8
+      },
+      {
+        "skill": "Calendar",
+        "count": 3
+      },
+      {
+        "skill": "Cam Software",
+        "count": 2
+      },
+      {
+        "skill": "Camtasia",
+        "count": 10
+      },
+      {
+        "skill": "Can",
+        "count": 3
+      },
+      {
+        "skill": "Canvas",
+        "count": 4
+      },
+      {
+        "skill": "Capcut",
+        "count": 8
+      },
+      {
+        "skill": "Captivate",
+        "count": 2
+      },
+      {
+        "skill": "Capture One",
+        "count": 4
+      },
+      {
+        "skill": "Cataloging",
+        "count": 2
+      },
+      {
+        "skill": "Catia",
+        "count": 12
+      },
+      {
+        "skill": "Catia V5",
+        "count": 2
+      },
+      {
+        "skill": "Cd",
+        "count": 8
+      },
+      {
+        "skill": "Cd Tools",
+        "count": 4
+      },
+      {
+        "skill": "Cell Culture",
+        "count": 3
+      },
+      {
+        "skill": "Cfd",
+        "count": 2
+      },
+      {
+        "skill": "Cg",
+        "count": 3
+      },
+      {
+        "skill": "Chatgpt",
+        "count": 8
+      },
+      {
+        "skill": "Chemical",
+        "count": 3
+      },
+      {
+        "skill": "Chromatography",
+        "count": 2
+      },
+      {
+        "skill": "Chrome Os",
+        "count": 4
+      },
+      {
+        "skill": "Ci",
+        "count": 16
+      },
+      {
+        "skill": "Circuit Design",
+        "count": 2
+      },
+      {
+        "skill": "Circuits",
+        "count": 2
+      },
+      {
+        "skill": "Cl",
+        "count": 2
+      },
+      {
+        "skill": "Claude",
+        "count": 3
+      },
+      {
+        "skill": "Closed Loop Control Systems",
+        "count": 2
+      },
+      {
+        "skill": "Cloud Computing",
+        "count": 8
+      },
+      {
+        "skill": "Cloud Computing Environments",
+        "count": 2
+      },
+      {
+        "skill": "Cloud Environment",
+        "count": 2
+      },
+      {
+        "skill": "Cloud Environments",
+        "count": 4
+      },
+      {
+        "skill": "Cloud Platforms",
+        "count": 6
+      },
+      {
+        "skill": "Cloud Security",
+        "count": 3
+      },
+      {
+        "skill": "Cloud Services",
+        "count": 4
+      },
+      {
+        "skill": "Cloud Technologies",
+        "count": 6
+      },
+      {
+        "skill": "Cloudformation",
+        "count": 2
+      },
+      {
+        "skill": "Cmake",
+        "count": 2
+      },
+      {
+        "skill": "Cms",
+        "count": 4
+      },
+      {
+        "skill": "Cms Platforms",
+        "count": 2
+      },
+      {
+        "skill": "Code Development",
+        "count": 3
+      },
+      {
+        "skill": "Code Reviews",
+        "count": 2
+      },
+      {
+        "skill": "Coding",
+        "count": 11
+      },
+      {
+        "skill": "Coding Languages",
+        "count": 2
+      },
+      {
+        "skill": "Collaboration Tools",
+        "count": 2
+      },
+      {
+        "skill": "Color",
+        "count": 3
+      },
+      {
+        "skill": "Command Line",
+        "count": 2
+      },
+      {
+        "skill": "Communication Protocols",
+        "count": 2
+      },
+      {
+        "skill": "Computer",
+        "count": 7
+      },
+      {
+        "skill": "Computer Applications",
+        "count": 2
+      },
+      {
+        "skill": "Computer Architecture",
+        "count": 4
+      },
+      {
+        "skill": "Computer Hardware",
+        "count": 5
+      },
+      {
+        "skill": "Computer Networking",
+        "count": 3
+      },
+      {
+        "skill": "Computer Proficiency",
+        "count": 3
+      },
+      {
+        "skill": "Computer Science",
+        "count": 5
+      },
+      {
+        "skill": "Computer Skills",
+        "count": 15
+      },
+      {
+        "skill": "Computer Software",
+        "count": 2
+      },
+      {
+        "skill": "Computer Software For Design",
+        "count": 4
+      },
+      {
+        "skill": "Computer Systems",
+        "count": 3
+      },
+      {
+        "skill": "Computer Vision",
+        "count": 12
+      },
+      {
+        "skill": "Computer skills sufficient to operate a laptop",
+        "count": 3
+      },
+      {
+        "skill": "Computer-based manufacturing systems",
+        "count": 2
+      },
+      {
+        "skill": "Computers",
+        "count": 6
+      },
+      {
+        "skill": "Comsol",
+        "count": 7
+      },
+      {
+        "skill": "Concur Applications",
+        "count": 2
+      },
+      {
+        "skill": "Connectwise",
+        "count": 2
+      },
+      {
+        "skill": "Content Creation Tools",
+        "count": 5
+      },
+      {
+        "skill": "Content Management Systems",
+        "count": 26
+      },
+      {
+        "skill": "Content Management Tools",
+        "count": 2
+      },
+      {
+        "skill": "Contentsquare",
+        "count": 2
+      },
+      {
+        "skill": "Control Systems",
+        "count": 4
+      },
+      {
+        "skill": "Copier",
+        "count": 2
+      },
+      {
+        "skill": "Cplex",
+        "count": 5
+      },
+      {
+        "skill": "Cpr",
+        "count": 2
+      },
+      {
+        "skill": "Cpt",
+        "count": 2
+      },
+      {
+        "skill": "Creo",
+        "count": 21
+      },
+      {
+        "skill": "Creo Parametric",
+        "count": 3
+      },
+      {
+        "skill": "Crispr",
+        "count": 2
+      },
+      {
+        "skill": "Crm",
+        "count": 19
+      },
+      {
+        "skill": "Crm Platforms",
+        "count": 5
+      },
+      {
+        "skill": "Crm Software",
+        "count": 5
+      },
+      {
+        "skill": "Crm Systems",
+        "count": 11
+      },
+      {
+        "skill": "Crm Systems Like Salesforce",
+        "count": 2
+      },
+      {
+        "skill": "Crm Tools",
+        "count": 17
+      },
+      {
+        "skill": "Csh",
+        "count": 3
+      },
+      {
+        "skill": "Csi Bridge",
+        "count": 2
+      },
+      {
+        "skill": "Css",
+        "count": 133
+      },
+      {
+        "skill": "Css3",
+        "count": 16
+      },
+      {
+        "skill": "Cuda",
+        "count": 21
+      },
+      {
+        "skill": "Culvertmaster",
+        "count": 2
+      },
+      {
+        "skill": "Cvent",
+        "count": 2
+      },
+      {
+        "skill": "Cvs",
+        "count": 2
+      },
+      {
+        "skill": "Cybersecurity",
+        "count": 4
+      },
+      {
+        "skill": "Cybersecurity Tools",
+        "count": 2
+      },
+      {
+        "skill": "Dac",
+        "count": 2
+      },
+      {
+        "skill": "Dart",
+        "count": 6
+      },
+      {
+        "skill": "Dashboards",
+        "count": 3
+      },
+      {
+        "skill": "Davinci",
+        "count": 2
+      },
+      {
+        "skill": "Davinci Resolve",
+        "count": 2
+      },
+      {
+        "skill": "Dax",
+        "count": 4
+      },
+      {
+        "skill": "Dbt",
+        "count": 6
+      },
+      {
+        "skill": "Dbtext",
+        "count": 2
+      },
+      {
+        "skill": "Debuggers",
+        "count": 3
+      },
+      {
+        "skill": "Debugging",
+        "count": 3
+      },
+      {
+        "skill": "Debugging Tools",
+        "count": 2
+      },
+      {
+        "skill": "Decks",
+        "count": 3
+      },
+      {
+        "skill": "Deed Plotter Software",
+        "count": 2
+      },
+      {
+        "skill": "Deep Learning",
+        "count": 17
+      },
+      {
+        "skill": "Deep Learning Frameworks",
+        "count": 14
+      },
+      {
+        "skill": "Deep Learning Toolkits",
+        "count": 2
+      },
+      {
+        "skill": "Demonstrated Computer Skills",
+        "count": 15
+      },
+      {
+        "skill": "Design",
+        "count": 8
+      },
+      {
+        "skill": "Design Software",
+        "count": 12
+      },
+      {
+        "skill": "Design Tools",
+        "count": 4
+      },
+      {
+        "skill": "Desktop Operating Systems",
+        "count": 2
+      },
+      {
+        "skill": "Development",
+        "count": 2
+      },
+      {
+        "skill": "Development Tools",
+        "count": 2
+      },
+      {
+        "skill": "Devops",
+        "count": 6
+      },
+      {
+        "skill": "Dhcp",
+        "count": 6
+      },
+      {
+        "skill": "Dhtml",
+        "count": 2
+      },
+      {
+        "skill": "Digital",
+        "count": 2
+      },
+      {
+        "skill": "Digital Asset Management",
+        "count": 3
+      },
+      {
+        "skill": "Digital Communication Tools",
+        "count": 2
+      },
+      {
+        "skill": "Digital Illustration Tools",
+        "count": 2
+      },
+      {
+        "skill": "Digital Marketing",
+        "count": 2
+      },
+      {
+        "skill": "Digital Marketing Tools",
+        "count": 8
+      },
+      {
+        "skill": "Digital Signal Processing",
+        "count": 2
+      },
+      {
+        "skill": "Digital Tools",
+        "count": 4
+      },
+      {
+        "skill": "Directx",
+        "count": 2
+      },
+      {
+        "skill": "Distributed Systems",
+        "count": 3
+      },
+      {
+        "skill": "Dls",
+        "count": 2
+      },
+      {
+        "skill": "Dmm",
+        "count": 2
+      },
+      {
+        "skill": "Dns",
+        "count": 6
+      },
+      {
+        "skill": "Document Management Systems",
+        "count": 2
+      },
+      {
+        "skill": "Documentation Tools",
+        "count": 2
+      },
+      {
+        "skill": "Docusign",
+        "count": 2
+      },
+      {
+        "skill": "Dom",
+        "count": 4
+      },
+      {
+        "skill": "Domo",
+        "count": 11
+      },
+      {
+        "skill": "Dslr Cameras",
+        "count": 2
+      },
+      {
+        "skill": "E-Commerce Platforms",
+        "count": 4
+      },
+      {
+        "skill": "E-Learning",
+        "count": 2
+      },
+      {
+        "skill": "Eagle",
+        "count": 4
+      },
+      {
+        "skill": "Ec2",
+        "count": 2
+      },
+      {
+        "skill": "Eda Tools",
+        "count": 5
+      },
+      {
+        "skill": "Editing",
+        "count": 3
+      },
+      {
+        "skill": "Editing Software",
+        "count": 2
+      },
+      {
+        "skill": "Eikon",
+        "count": 2
+      },
+      {
+        "skill": "Ejb",
+        "count": 2
+      },
+      {
+        "skill": "Electrical",
+        "count": 5
+      },
+      {
+        "skill": "Electrical Schematics",
+        "count": 2
+      },
+      {
+        "skill": "Electrical Tools",
+        "count": 3
+      },
+      {
+        "skill": "Electronic Lab Equipment",
+        "count": 2
+      },
+      {
+        "skill": "Electronics",
+        "count": 8
+      },
+      {
+        "skill": "Electronics Design",
+        "count": 2
+      },
+      {
+        "skill": "Elisa",
+        "count": 7
+      },
+      {
+        "skill": "Ellucian",
+        "count": 2
+      },
+      {
+        "skill": "Embedded Systems",
+        "count": 13
+      },
+      {
+        "skill": "Ember",
+        "count": 2
+      },
+      {
+        "skill": "Endpoint Security",
+        "count": 2
+      },
+      {
+        "skill": "Engineering Analysis Tools",
+        "count": 4
+      },
+      {
+        "skill": "Engineering Software",
+        "count": 3
+      },
+      {
+        "skill": "Engineering Tools",
+        "count": 3
+      },
+      {
+        "skill": "Enscape",
+        "count": 17
+      },
+      {
+        "skill": "Enterprise Resource Planning",
+        "count": 2
+      },
+      {
+        "skill": "Epa Swmm",
+        "count": 2
+      },
+      {
+        "skill": "Epic",
+        "count": 2
+      },
+      {
+        "skill": "Eprocurement Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Equipment",
+        "count": 8
+      },
+      {
+        "skill": "Er",
+        "count": 2
+      },
+      {
+        "skill": "Erp",
+        "count": 8
+      },
+      {
+        "skill": "Erp Software",
+        "count": 8
+      },
+      {
+        "skill": "Erp System",
+        "count": 3
+      },
+      {
+        "skill": "Erp Systems",
+        "count": 15
+      },
+      {
+        "skill": "Esri",
+        "count": 2
+      },
+      {
+        "skill": "Esri Arcgis",
+        "count": 3
+      },
+      {
+        "skill": "Esri Arcgis Pro",
+        "count": 2
+      },
+      {
+        "skill": "Esri Gis",
+        "count": 2
+      },
+      {
+        "skill": "Esri Products",
+        "count": 2
+      },
+      {
+        "skill": "Etabs",
+        "count": 2
+      },
+      {
+        "skill": "Etc",
+        "count": 6
+      },
+      {
+        "skill": "Etc.",
+        "count": 41
+      },
+      {
+        "skill": "Ethernet",
+        "count": 3
+      },
+      {
+        "skill": "Etl",
+        "count": 7
+      },
+      {
+        "skill": "Etl Processes",
+        "count": 2
+      },
+      {
+        "skill": "Etl Tools",
+        "count": 3
+      },
+      {
+        "skill": "Event Management Software",
+        "count": 2
+      },
+      {
+        "skill": "Evm",
+        "count": 2
+      },
+      {
+        "skill": "Experience",
+        "count": 11
+      },
+      {
+        "skill": "Experimental Design",
+        "count": 2
+      },
+      {
+        "skill": "Extjs",
+        "count": 2
+      },
+      {
+        "skill": "Fabrication",
+        "count": 2
+      },
+      {
+        "skill": "Fabrication Methods",
+        "count": 2
+      },
+      {
+        "skill": "Facebook",
+        "count": 23
+      },
+      {
+        "skill": "Factset",
+        "count": 2
+      },
+      {
+        "skill": "Familiarity",
+        "count": 12
+      },
+      {
+        "skill": "Fastapi",
+        "count": 3
+      },
+      {
+        "skill": "Fax Machine",
+        "count": 2
+      },
+      {
+        "skill": "Fea",
+        "count": 9
+      },
+      {
+        "skill": "Final Cut",
+        "count": 4
+      },
+      {
+        "skill": "Final Cut Pro",
+        "count": 12
+      },
+      {
+        "skill": "Final Draft",
+        "count": 2
+      },
+      {
+        "skill": "Financial Analysis",
+        "count": 2
+      },
+      {
+        "skill": "Financial Research Tools",
+        "count": 2
+      },
+      {
+        "skill": "Financial Software",
+        "count": 10
+      },
+      {
+        "skill": "Financial Systems",
+        "count": 2
+      },
+      {
+        "skill": "Finite Element Analysis",
+        "count": 4
+      },
+      {
+        "skill": "Firewalls",
+        "count": 9
+      },
+      {
+        "skill": "Firmware",
+        "count": 3
+      },
+      {
+        "skill": "Flax",
+        "count": 4
+      },
+      {
+        "skill": "Flow Cytometry",
+        "count": 7
+      },
+      {
+        "skill": "Flowmaster",
+        "count": 2
+      },
+      {
+        "skill": "Fluorescence Microscopy",
+        "count": 2
+      },
+      {
+        "skill": "Flutter",
+        "count": 7
+      },
+      {
+        "skill": "Fmea",
+        "count": 2
+      },
+      {
+        "skill": "Forklift",
+        "count": 2
+      },
+      {
+        "skill": "Formulas",
+        "count": 2
+      },
+      {
+        "skill": "Fortran",
+        "count": 6
+      },
+      {
+        "skill": "Fpga",
+        "count": 6
+      },
+      {
+        "skill": "Fpgas",
+        "count": 3
+      },
+      {
+        "skill": "Frameworks",
+        "count": 14
+      },
+      {
+        "skill": "Frontend",
+        "count": 2
+      },
+      {
+        "skill": "Ftp",
+        "count": 3
+      },
+      {
+        "skill": "Full Stack Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Fusion 360",
+        "count": 3
+      },
+      {
+        "skill": "G-Suite",
+        "count": 15
+      },
+      {
+        "skill": "Gas Equipment Management",
+        "count": 2
+      },
+      {
+        "skill": "Gazebo",
+        "count": 8
+      },
+      {
+        "skill": "Gbq",
+        "count": 2
+      },
+      {
+        "skill": "Gc",
+        "count": 5
+      },
+      {
+        "skill": "Gcc",
+        "count": 2
+      },
+      {
+        "skill": "Gcp Suite",
+        "count": 2
+      },
+      {
+        "skill": "Gcp Suite Of Services",
+        "count": 3
+      },
+      {
+        "skill": "Gd",
+        "count": 5
+      },
+      {
+        "skill": "Gel Electrophoresis",
+        "count": 2
+      },
+      {
+        "skill": "Gemini",
+        "count": 5
+      },
+      {
+        "skill": "Geneious Prime",
+        "count": 2
+      },
+      {
+        "skill": "General Pc Skills",
+        "count": 2
+      },
+      {
+        "skill": "Geopak",
+        "count": 2
+      },
+      {
+        "skill": "Gis",
+        "count": 36
+      },
+      {
+        "skill": "Gis Mapping Software",
+        "count": 6
+      },
+      {
+        "skill": "Gis Software",
+        "count": 4
+      },
+      {
+        "skill": "Git",
+        "count": 170
+      },
+      {
+        "skill": "GitHub",
+        "count": 48
+      },
+      {
+        "skill": "Github Actions",
+        "count": 2
+      },
+      {
+        "skill": "Gitlab",
+        "count": 8
+      },
+      {
+        "skill": "Gitlab Ci",
+        "count": 2
+      },
+      {
+        "skill": "Glsl",
+        "count": 3
+      },
+      {
+        "skill": "Glue",
+        "count": 2
+      },
+      {
+        "skill": "Gmps",
+        "count": 2
+      },
+      {
+        "skill": "Go-Lang",
+        "count": 2
+      },
+      {
+        "skill": "Good Computer Skills",
+        "count": 2
+      },
+      {
+        "skill": "Google",
+        "count": 17
+      },
+      {
+        "skill": "Google Ads",
+        "count": 4
+      },
+      {
+        "skill": "Google Applications",
+        "count": 11
+      },
+      {
+        "skill": "Google Apps",
+        "count": 5
+      },
+      {
+        "skill": "Google Big Query",
+        "count": 2
+      },
+      {
+        "skill": "Google Classroom",
+        "count": 2
+      },
+      {
+        "skill": "Google Docs",
+        "count": 43
+      },
+      {
+        "skill": "Google Drive",
+        "count": 5
+      },
+      {
+        "skill": "Google Earth",
+        "count": 3
+      },
+      {
+        "skill": "Google Products",
+        "count": 4
+      },
+      {
+        "skill": "Google Sheets",
+        "count": 142
+      },
+      {
+        "skill": "Google Slides",
+        "count": 23
+      },
+      {
+        "skill": "Google Suite Of Products",
+        "count": 2
+      },
+      {
+        "skill": "Google Suite Products",
+        "count": 2
+      },
+      {
+        "skill": "Google Suites",
+        "count": 2
+      },
+      {
+        "skill": "Google Tools",
+        "count": 3
+      },
+      {
+        "skill": "Google Workspace",
+        "count": 214
+      },
+      {
+        "skill": "Google Workspace Applications",
+        "count": 3
+      },
+      {
+        "skill": "Google Workspace Tools",
+        "count": 2
+      },
+      {
+        "skill": "Gpt",
+        "count": 3
+      },
+      {
+        "skill": "Gpu",
+        "count": 3
+      },
+      {
+        "skill": "Gpu Computing",
+        "count": 2
+      },
+      {
+        "skill": "Gradle",
+        "count": 2
+      },
+      {
+        "skill": "Grafana",
+        "count": 7
+      },
+      {
+        "skill": "Grammarly",
+        "count": 2
+      },
+      {
+        "skill": "Graphic",
+        "count": 2
+      },
+      {
+        "skill": "Graphic Design",
+        "count": 9
+      },
+      {
+        "skill": "Graphic Design Tools",
+        "count": 2
+      },
+      {
+        "skill": "Graphic Design tools such as Canva",
+        "count": 2
+      },
+      {
+        "skill": "Graphics",
+        "count": 7
+      },
+      {
+        "skill": "Graphpad Prism",
+        "count": 2
+      },
+      {
+        "skill": "Graphql",
+        "count": 5
+      },
+      {
+        "skill": "Graphs",
+        "count": 2
+      },
+      {
+        "skill": "Grasshopper",
+        "count": 3
+      },
+      {
+        "skill": "Groovy",
+        "count": 8
+      },
+      {
+        "skill": "Grpc Apis",
+        "count": 5
+      },
+      {
+        "skill": "Grunt",
+        "count": 2
+      },
+      {
+        "skill": "Gsuite",
+        "count": 8
+      },
+      {
+        "skill": "Gsuite Applications",
+        "count": 4
+      },
+      {
+        "skill": "Gsuite Tools",
+        "count": 2
+      },
+      {
+        "skill": "Gulp",
+        "count": 2
+      },
+      {
+        "skill": "Gurobi",
+        "count": 5
+      },
+      {
+        "skill": "Hadoop",
+        "count": 3
+      },
+      {
+        "skill": "Hand",
+        "count": 2
+      },
+      {
+        "skill": "Hand Sketching",
+        "count": 2
+      },
+      {
+        "skill": "Hand Tools",
+        "count": 10
+      },
+      {
+        "skill": "Hand-Tools",
+        "count": 2
+      },
+      {
+        "skill": "Hands-On Experience",
+        "count": 2
+      },
+      {
+        "skill": "Hardware",
+        "count": 6
+      },
+      {
+        "skill": "Hardware Architecture",
+        "count": 2
+      },
+      {
+        "skill": "Hardware Components",
+        "count": 2
+      },
+      {
+        "skill": "Harness",
+        "count": 3
+      },
+      {
+        "skill": "Haskell",
+        "count": 5
+      },
+      {
+        "skill": "Hbi",
+        "count": 2
+      },
+      {
+        "skill": "Hcs",
+        "count": 2
+      },
+      {
+        "skill": "Heap",
+        "count": 4
+      },
+      {
+        "skill": "Hec-Hms",
+        "count": 7
+      },
+      {
+        "skill": "Hec-Ms",
+        "count": 2
+      },
+      {
+        "skill": "Hec-Ras",
+        "count": 10
+      },
+      {
+        "skill": "Helm",
+        "count": 4
+      },
+      {
+        "skill": "Hfss",
+        "count": 3
+      },
+      {
+        "skill": "Hibernate",
+        "count": 3
+      },
+      {
+        "skill": "Hive",
+        "count": 4
+      },
+      {
+        "skill": "Hive Sql",
+        "count": 4
+      },
+      {
+        "skill": "Hlsl",
+        "count": 7
+      },
+      {
+        "skill": "Hootsuite",
+        "count": 7
+      },
+      {
+        "skill": "Houdini",
+        "count": 5
+      },
+      {
+        "skill": "Hplc",
+        "count": 9
+      },
+      {
+        "skill": "Hris",
+        "count": 4
+      },
+      {
+        "skill": "Hris Systems",
+        "count": 2
+      },
+      {
+        "skill": "Hspice",
+        "count": 2
+      },
+      {
+        "skill": "Html",
+        "count": 157
+      },
+      {
+        "skill": "Html5",
+        "count": 30
+      },
+      {
+        "skill": "Http",
+        "count": 5
+      },
+      {
+        "skill": "Hubspot",
+        "count": 29
+      },
+      {
+        "skill": "Hugging Face",
+        "count": 5
+      },
+      {
+        "skill": "Huggingface Transformers",
+        "count": 6
+      },
+      {
+        "skill": "Hvac",
+        "count": 2
+      },
+      {
+        "skill": "Hy8",
+        "count": 2
+      },
+      {
+        "skill": "Hyperion",
+        "count": 2
+      },
+      {
+        "skill": "Hysys",
+        "count": 4
+      },
+      {
+        "skill": "I2C",
+        "count": 4
+      },
+      {
+        "skill": "Ibm I",
+        "count": 2
+      },
+      {
+        "skill": "Ibm I Operating System",
+        "count": 2
+      },
+      {
+        "skill": "Ic",
+        "count": 3
+      },
+      {
+        "skill": "Icpms",
+        "count": 2
+      },
+      {
+        "skill": "Icpr",
+        "count": 2
+      },
+      {
+        "skill": "Idea",
+        "count": 3
+      },
+      {
+        "skill": "Ides",
+        "count": 6
+      },
+      {
+        "skill": "Iiot Concepts",
+        "count": 2
+      },
+      {
+        "skill": "Image Processing",
+        "count": 5
+      },
+      {
+        "skill": "Imagej",
+        "count": 2
+      },
+      {
+        "skill": "Imgui",
+        "count": 2
+      },
+      {
+        "skill": "Immunohistochemistry",
+        "count": 2
+      },
+      {
+        "skill": "Imovie",
+        "count": 2
+      },
+      {
+        "skill": "Incident Response",
+        "count": 2
+      },
+      {
+        "skill": "Indesign",
+        "count": 64
+      },
+      {
+        "skill": "Indesign Creative Suite",
+        "count": 2
+      },
+      {
+        "skill": "Industrial Automation",
+        "count": 2
+      },
+      {
+        "skill": "Industry-Relevant Software",
+        "count": 6
+      },
+      {
+        "skill": "Informatica",
+        "count": 4
+      },
+      {
+        "skill": "Information Security",
+        "count": 2
+      },
+      {
+        "skill": "Injection Molding",
+        "count": 4
+      },
+      {
+        "skill": "Inovia",
+        "count": 2
+      },
+      {
+        "skill": "Inshot",
+        "count": 2
+      },
+      {
+        "skill": "Instagram",
+        "count": 35
+      },
+      {
+        "skill": "Instrumentation",
+        "count": 2
+      },
+      {
+        "skill": "Interactive Prototypes",
+        "count": 2
+      },
+      {
+        "skill": "Intermediate Computer Skills",
+        "count": 3
+      },
+      {
+        "skill": "Internet",
+        "count": 3
+      },
+      {
+        "skill": "Internet Applications",
+        "count": 2
+      },
+      {
+        "skill": "Internet Explorer",
+        "count": 2
+      },
+      {
+        "skill": "Internet Research",
+        "count": 4
+      },
+      {
+        "skill": "Intrusion Detection Systems",
+        "count": 3
+      },
+      {
+        "skill": "Intune",
+        "count": 3
+      },
+      {
+        "skill": "Inventor",
+        "count": 7
+      },
+      {
+        "skill": "Investment-Related Software",
+        "count": 2
+      },
+      {
+        "skill": "Invision",
+        "count": 6
+      },
+      {
+        "skill": "Ionic",
+        "count": 2
+      },
+      {
+        "skill": "Ios",
+        "count": 2
+      },
+      {
+        "skill": "Iot",
+        "count": 2
+      },
+      {
+        "skill": "Ip",
+        "count": 15
+      },
+      {
+        "skill": "It",
+        "count": 2
+      },
+      {
+        "skill": "It Systems",
+        "count": 5
+      },
+      {
+        "skill": "J2Ee",
+        "count": 2
+      },
+      {
+        "skill": "J2Ee Architecture",
+        "count": 2
+      },
+      {
+        "skill": "Jax",
+        "count": 41
+      },
+      {
+        "skill": "Jcl",
+        "count": 2
+      },
+      {
+        "skill": "Jde",
+        "count": 3
+      },
+      {
+        "skill": "Jee Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Jest",
+        "count": 2
+      },
+      {
+        "skill": "Jetpack Compose",
+        "count": 4
+      },
+      {
+        "skill": "Jira Service Management",
+        "count": 2
+      },
+      {
+        "skill": "Jmp",
+        "count": 25
+      },
+      {
+        "skill": "Jms",
+        "count": 2
+      },
+      {
+        "skill": "Jquery",
+        "count": 6
+      },
+      {
+        "skill": "Js Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Json",
+        "count": 11
+      },
+      {
+        "skill": "Julia",
+        "count": 10
+      },
+      {
+        "skill": "Junit",
+        "count": 9
+      },
+      {
+        "skill": "Jupyter Notebook",
+        "count": 2
+      },
+      {
+        "skill": "Jupyter Notebook Hubs",
+        "count": 2
+      },
+      {
+        "skill": "Kafka",
+        "count": 11
+      },
+      {
+        "skill": "Kanban Methodologies",
+        "count": 2
+      },
+      {
+        "skill": "Keyboarding",
+        "count": 3
+      },
+      {
+        "skill": "Keynote",
+        "count": 30
+      },
+      {
+        "skill": "Keyshot",
+        "count": 10
+      },
+      {
+        "skill": "Knives",
+        "count": 2
+      },
+      {
+        "skill": "Knowledge of over-the-counter medications",
+        "count": 3
+      },
+      {
+        "skill": "Kotlin Multi-Platform",
+        "count": 5
+      },
+      {
+        "skill": "Kroll Computer System",
+        "count": 2
+      },
+      {
+        "skill": "Kroll Pharmacy Software",
+        "count": 2
+      },
+      {
+        "skill": "Kroll Software",
+        "count": 2
+      },
+      {
+        "skill": "Lab Equipment",
+        "count": 7
+      },
+      {
+        "skill": "Laboratory",
+        "count": 2
+      },
+      {
+        "skill": "Laboratory Equipment",
+        "count": 2
+      },
+      {
+        "skill": "Labview",
+        "count": 36
+      },
+      {
+        "skill": "Lambda",
+        "count": 2
+      },
+      {
+        "skill": "Langgraph",
+        "count": 2
+      },
+      {
+        "skill": "Large Language Models",
+        "count": 4
+      },
+      {
+        "skill": "Laser Cutting",
+        "count": 5
+      },
+      {
+        "skill": "Latex",
+        "count": 3
+      },
+      {
+        "skill": "Ldap",
+        "count": 5
+      },
+      {
+        "skill": "Lean",
+        "count": 2
+      },
+      {
+        "skill": "Lean Manufacturing",
+        "count": 3
+      },
+      {
+        "skill": "Lean Methodologies",
+        "count": 2
+      },
+      {
+        "skill": "Lean Principles",
+        "count": 2
+      },
+      {
+        "skill": "Learn",
+        "count": 2
+      },
+      {
+        "skill": "Learning Management Systems",
+        "count": 6
+      },
+      {
+        "skill": "Legal Research Tools",
+        "count": 4
+      },
+      {
+        "skill": "Less",
+        "count": 5
+      },
+      {
+        "skill": "Lexis",
+        "count": 3
+      },
+      {
+        "skill": "Lexisnexis",
+        "count": 4
+      },
+      {
+        "skill": "Libraries",
+        "count": 5
+      },
+      {
+        "skill": "Lidar",
+        "count": 2
+      },
+      {
+        "skill": "Lightgbm",
+        "count": 2
+      },
+      {
+        "skill": "Lightroom",
+        "count": 6
+      },
+      {
+        "skill": "Linkedin",
+        "count": 24
+      },
+      {
+        "skill": "Linux",
+        "count": 200
+      },
+      {
+        "skill": "Linux Kernel Modules",
+        "count": 2
+      },
+      {
+        "skill": "Linux Operating Systems",
+        "count": 2
+      },
+      {
+        "skill": "Linux System Administration",
+        "count": 2
+      },
+      {
+        "skill": "Llama",
+        "count": 2
+      },
+      {
+        "skill": "Llm",
+        "count": 5
+      },
+      {
+        "skill": "Llms",
+        "count": 4
+      },
+      {
+        "skill": "Llvm",
+        "count": 2
+      },
+      {
+        "skill": "Lms",
+        "count": 4
+      },
+      {
+        "skill": "Lms Platforms",
+        "count": 2
+      },
+      {
+        "skill": "Logic Analyzer",
+        "count": 2
+      },
+      {
+        "skill": "Logic Analyzers",
+        "count": 6
+      },
+      {
+        "skill": "Looker",
+        "count": 28
+      },
+      {
+        "skill": "Looker Studio",
+        "count": 5
+      },
+      {
+        "skill": "Lotus Notes",
+        "count": 2
+      },
+      {
+        "skill": "Lt Spice",
+        "count": 3
+      },
+      {
+        "skill": "Ltspice",
+        "count": 3
+      },
+      {
+        "skill": "Lua",
+        "count": 8
+      },
+      {
+        "skill": "Lucidchart",
+        "count": 2
+      },
+      {
+        "skill": "Lumerical",
+        "count": 2
+      },
+      {
+        "skill": "Lumion",
+        "count": 4
+      },
+      {
+        "skill": "Mac",
+        "count": 7
+      },
+      {
+        "skill": "Mac Os",
+        "count": 2
+      },
+      {
+        "skill": "Mac Osx",
+        "count": 2
+      },
+      {
+        "skill": "Machine",
+        "count": 2
+      },
+      {
+        "skill": "Machine Operations",
+        "count": 2
+      },
+      {
+        "skill": "Machining",
+        "count": 6
+      },
+      {
+        "skill": "Macos",
+        "count": 9
+      },
+      {
+        "skill": "Macros",
+        "count": 9
+      },
+      {
+        "skill": "Maestro",
+        "count": 2
+      },
+      {
+        "skill": "Magento",
+        "count": 9
+      },
+      {
+        "skill": "Major mechanical design software packages",
+        "count": 3
+      },
+      {
+        "skill": "Makefiles",
+        "count": 2
+      },
+      {
+        "skill": "Mammalian Cell Culture",
+        "count": 4
+      },
+      {
+        "skill": "Manufacturing Processes",
+        "count": 2
+      },
+      {
+        "skill": "Mapreduce",
+        "count": 2
+      },
+      {
+        "skill": "Mariadb",
+        "count": 2
+      },
+      {
+        "skill": "Markdown",
+        "count": 2
+      },
+      {
+        "skill": "Market Research",
+        "count": 2
+      },
+      {
+        "skill": "Market Research Tools",
+        "count": 2
+      },
+      {
+        "skill": "Marketing Tools",
+        "count": 2
+      },
+      {
+        "skill": "Marketo",
+        "count": 10
+      },
+      {
+        "skill": "Mass Spectrometry",
+        "count": 2
+      },
+      {
+        "skill": "Mathematics",
+        "count": 2
+      },
+      {
+        "skill": "Matlab",
+        "count": 200
+      },
+      {
+        "skill": "Matplotlib",
+        "count": 6
+      },
+      {
+        "skill": "Maven",
+        "count": 2
+      },
+      {
+        "skill": "Mcu",
+        "count": 4
+      },
+      {
+        "skill": "Measurement Instruments",
+        "count": 4
+      },
+      {
+        "skill": "Mechanical",
+        "count": 3
+      },
+      {
+        "skill": "Mechanical Systems",
+        "count": 2
+      },
+      {
+        "skill": "Mechatronics Hardware",
+        "count": 2
+      },
+      {
+        "skill": "Medical Terminology",
+        "count": 2
+      },
+      {
+        "skill": "Messaging",
+        "count": 2
+      },
+      {
+        "skill": "Meta Business Suite",
+        "count": 2
+      },
+      {
+        "skill": "Methodologies",
+        "count": 4
+      },
+      {
+        "skill": "Microcontrollers",
+        "count": 7
+      },
+      {
+        "skill": "Micrometers",
+        "count": 2
+      },
+      {
+        "skill": "Microprocessor",
+        "count": 2
+      },
+      {
+        "skill": "Microservices",
+        "count": 5
+      },
+      {
+        "skill": "Microservices Architecture",
+        "count": 4
+      },
+      {
+        "skill": "Microsite Creation",
+        "count": 2
+      },
+      {
+        "skill": "Microstation",
+        "count": 107
+      },
+      {
+        "skill": "Microstrategy",
+        "count": 2
+      },
+      {
+        "skill": "Midas Civil",
+        "count": 2
+      },
+      {
+        "skill": "Mindtap",
+        "count": 3
+      },
+      {
+        "skill": "Mining Software",
+        "count": 2
+      },
+      {
+        "skill": "Minitab",
+        "count": 29
+      },
+      {
+        "skill": "Miro",
+        "count": 7
+      },
+      {
+        "skill": "Mixpanel",
+        "count": 4
+      },
+      {
+        "skill": "Ml Algorithms",
+        "count": 3
+      },
+      {
+        "skill": "Ml Framework",
+        "count": 2
+      },
+      {
+        "skill": "Ml Frameworks",
+        "count": 10
+      },
+      {
+        "skill": "Ml Libraries",
+        "count": 3
+      },
+      {
+        "skill": "Ml Models",
+        "count": 2
+      },
+      {
+        "skill": "Ml Techniques",
+        "count": 3
+      },
+      {
+        "skill": "Ml Tools",
+        "count": 4
+      },
+      {
+        "skill": "Mlflow",
+        "count": 3
+      },
+      {
+        "skill": "Mlir",
+        "count": 4
+      },
+      {
+        "skill": "Mode",
+        "count": 2
+      },
+      {
+        "skill": "Modern C",
+        "count": 2
+      },
+      {
+        "skill": "Modern Front-End Tools",
+        "count": 2
+      },
+      {
+        "skill": "Modern Ml Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Modular",
+        "count": 2
+      },
+      {
+        "skill": "Moe",
+        "count": 3
+      },
+      {
+        "skill": "Moengage",
+        "count": 2
+      },
+      {
+        "skill": "Molecular Biology",
+        "count": 2
+      },
+      {
+        "skill": "Molecular Biology Techniques",
+        "count": 7
+      },
+      {
+        "skill": "Monday.Com",
+        "count": 10
+      },
+      {
+        "skill": "Mongodb",
+        "count": 20
+      },
+      {
+        "skill": "Motionbuilder",
+        "count": 3
+      },
+      {
+        "skill": "Mpi",
+        "count": 2
+      },
+      {
+        "skill": "Mq",
+        "count": 2
+      },
+      {
+        "skill": "Mrp",
+        "count": 3
+      },
+      {
+        "skill": "Mrp Systems",
+        "count": 3
+      },
+      {
+        "skill": "Ms",
+        "count": 3
+      },
+      {
+        "skill": "Ms 365",
+        "count": 4
+      },
+      {
+        "skill": "Ms Access",
+        "count": 9
+      },
+      {
+        "skill": "Ms Active Directory",
+        "count": 3
+      },
+      {
+        "skill": "Ms Outlook",
+        "count": 12
+      },
+      {
+        "skill": "Ms Programs",
+        "count": 5
+      },
+      {
+        "skill": "Ms Project",
+        "count": 17
+      },
+      {
+        "skill": "Ms Suite",
+        "count": 13
+      },
+      {
+        "skill": "Ms Suite Of Products",
+        "count": 4
+      },
+      {
+        "skill": "Ms Teams",
+        "count": 11
+      },
+      {
+        "skill": "Ms Visio",
+        "count": 11
+      },
+      {
+        "skill": "Multi-Threaded Applications",
+        "count": 2
+      },
+      {
+        "skill": "Multimeter",
+        "count": 3
+      },
+      {
+        "skill": "Multimeters",
+        "count": 8
+      },
+      {
+        "skill": "Multimodal Models",
+        "count": 2
+      },
+      {
+        "skill": "Multisim",
+        "count": 3
+      },
+      {
+        "skill": "Mvc",
+        "count": 2
+      },
+      {
+        "skill": "Natural Language Processing",
+        "count": 2
+      },
+      {
+        "skill": "Navisworks",
+        "count": 2
+      },
+      {
+        "skill": "Netrix Tool",
+        "count": 2
+      },
+      {
+        "skill": "Netsuite",
+        "count": 4
+      },
+      {
+        "skill": "Network",
+        "count": 2
+      },
+      {
+        "skill": "Network Analyzers",
+        "count": 2
+      },
+      {
+        "skill": "Network Protocols",
+        "count": 2
+      },
+      {
+        "skill": "Network Security",
+        "count": 5
+      },
+      {
+        "skill": "Networking",
+        "count": 10
+      },
+      {
+        "skill": "Networking Concepts",
+        "count": 2
+      },
+      {
+        "skill": "Networking Fundamentals",
+        "count": 3
+      },
+      {
+        "skill": "Networking Protocols",
+        "count": 3
+      },
+      {
+        "skill": "Networks",
+        "count": 2
+      },
+      {
+        "skill": "Neural Networks",
+        "count": 4
+      },
+      {
+        "skill": "Newsroom Equipment",
+        "count": 2
+      },
+      {
+        "skill": "Newswriting Software",
+        "count": 2
+      },
+      {
+        "skill": "Next.Js",
+        "count": 10
+      },
+      {
+        "skill": "Nextflow",
+        "count": 3
+      },
+      {
+        "skill": "Nextjs",
+        "count": 2
+      },
+      {
+        "skill": "Ni Labview",
+        "count": 4
+      },
+      {
+        "skill": "Nist",
+        "count": 3
+      },
+      {
+        "skill": "Nlp",
+        "count": 4
+      },
+      {
+        "skill": "Nltk",
+        "count": 2
+      },
+      {
+        "skill": "Node Js",
+        "count": 2
+      },
+      {
+        "skill": "Notion",
+        "count": 10
+      },
+      {
+        "skill": "Npm",
+        "count": 4
+      },
+      {
+        "skill": "Numpy",
+        "count": 46
+      },
+      {
+        "skill": "Nx",
+        "count": 12
+      },
+      {
+        "skill": "Nx Nastran",
+        "count": 2
+      },
+      {
+        "skill": "Oauth",
+        "count": 2
+      },
+      {
+        "skill": "Objective-C",
+        "count": 6
+      },
+      {
+        "skill": "Okta",
+        "count": 2
+      },
+      {
+        "skill": "One",
+        "count": 2
+      },
+      {
+        "skill": "Onedrive",
+        "count": 5
+      },
+      {
+        "skill": "Onenote",
+        "count": 8
+      },
+      {
+        "skill": "Online Platforms",
+        "count": 2
+      },
+      {
+        "skill": "Online Tools",
+        "count": 8
+      },
+      {
+        "skill": "Onnx",
+        "count": 2
+      },
+      {
+        "skill": "Onshape",
+        "count": 4
+      },
+      {
+        "skill": "Opa",
+        "count": 2
+      },
+      {
+        "skill": "Open Roads",
+        "count": 10
+      },
+      {
+        "skill": "Open Roads Designer",
+        "count": 6
+      },
+      {
+        "skill": "Open-Source Software",
+        "count": 2
+      },
+      {
+        "skill": "Opencl",
+        "count": 10
+      },
+      {
+        "skill": "Opencv",
+        "count": 3
+      },
+      {
+        "skill": "Openeye",
+        "count": 2
+      },
+      {
+        "skill": "Openfoam",
+        "count": 3
+      },
+      {
+        "skill": "Opengl",
+        "count": 10
+      },
+      {
+        "skill": "Openmp",
+        "count": 3
+      },
+      {
+        "skill": "Openroads",
+        "count": 4
+      },
+      {
+        "skill": "Openroads Designer",
+        "count": 2
+      },
+      {
+        "skill": "Openstack",
+        "count": 2
+      },
+      {
+        "skill": "Opera Systems",
+        "count": 2
+      },
+      {
+        "skill": "Operating Systems",
+        "count": 15
+      },
+      {
+        "skill": "Optics",
+        "count": 2
+      },
+      {
+        "skill": "Optimization",
+        "count": 5
+      },
+      {
+        "skill": "Optimization Techniques",
+        "count": 2
+      },
+      {
+        "skill": "Or Outlook",
+        "count": 2
+      },
+      {
+        "skill": "Organic Chemistry",
+        "count": 2
+      },
+      {
+        "skill": "Oscilloscope",
+        "count": 8
+      },
+      {
+        "skill": "Oscilloscopes",
+        "count": 18
+      },
+      {
+        "skill": "Other Crms",
+        "count": 2
+      },
+      {
+        "skill": "Other Relevant Software",
+        "count": 2
+      },
+      {
+        "skill": "Other Reporting Tools",
+        "count": 2
+      },
+      {
+        "skill": "PC business software applications",
+        "count": 2
+      },
+      {
+        "skill": "Pc",
+        "count": 4
+      },
+      {
+        "skill": "Pc Hardware",
+        "count": 5
+      },
+      {
+        "skill": "Pc Skills",
+        "count": 3
+      },
+      {
+        "skill": "Pcb Design",
+        "count": 4
+      },
+      {
+        "skill": "Pcb Design Software",
+        "count": 3
+      },
+      {
+        "skill": "Pcb Layout",
+        "count": 3
+      },
+      {
+        "skill": "Pcba Design",
+        "count": 2
+      },
+      {
+        "skill": "Pcl",
+        "count": 6
+      },
+      {
+        "skill": "Pcr",
+        "count": 7
+      },
+      {
+        "skill": "Pcs",
+        "count": 10
+      },
+      {
+        "skill": "Pdm Systems",
+        "count": 4
+      },
+      {
+        "skill": "Pendo",
+        "count": 3
+      },
+      {
+        "skill": "Peoplesoft",
+        "count": 2
+      },
+      {
+        "skill": "Perforce",
+        "count": 2
+      },
+      {
+        "skill": "Performance Analysis",
+        "count": 2
+      },
+      {
+        "skill": "Personal Computer",
+        "count": 4
+      },
+      {
+        "skill": "Personal Computers",
+        "count": 2
+      },
+      {
+        "skill": "Pharmacy Technology",
+        "count": 3
+      },
+      {
+        "skill": "Photo",
+        "count": 3
+      },
+      {
+        "skill": "Photo Editing Software",
+        "count": 3
+      },
+      {
+        "skill": "Php",
+        "count": 23
+      },
+      {
+        "skill": "Pig",
+        "count": 3
+      },
+      {
+        "skill": "Pivot Table",
+        "count": 2
+      },
+      {
+        "skill": "Pivot Tables",
+        "count": 11
+      },
+      {
+        "skill": "Platform Product Life Cycle",
+        "count": 2
+      },
+      {
+        "skill": "Platforms",
+        "count": 7
+      },
+      {
+        "skill": "Playwright",
+        "count": 3
+      },
+      {
+        "skill": "Plc",
+        "count": 5
+      },
+      {
+        "skill": "Plc Design",
+        "count": 2
+      },
+      {
+        "skill": "Plc?€?S",
+        "count": 2
+      },
+      {
+        "skill": "Plcs",
+        "count": 8
+      },
+      {
+        "skill": "Plecs",
+        "count": 2
+      },
+      {
+        "skill": "Plm",
+        "count": 12
+      },
+      {
+        "skill": "Plm System",
+        "count": 4
+      },
+      {
+        "skill": "Plm Systems",
+        "count": 2
+      },
+      {
+        "skill": "Pond Pack",
+        "count": 2
+      },
+      {
+        "skill": "Postman",
+        "count": 3
+      },
+      {
+        "skill": "Power",
+        "count": 2
+      },
+      {
+        "skill": "Power Apps",
+        "count": 7
+      },
+      {
+        "skill": "Power Automate",
+        "count": 24
+      },
+      {
+        "skill": "Power Pages",
+        "count": 2
+      },
+      {
+        "skill": "Power Platform",
+        "count": 3
+      },
+      {
+        "skill": "Power Queries",
+        "count": 2
+      },
+      {
+        "skill": "Power Query",
+        "count": 11
+      },
+      {
+        "skill": "Power Supplies",
+        "count": 3
+      },
+      {
+        "skill": "Power Tools",
+        "count": 12
+      },
+      {
+        "skill": "Power electronics hardware implementation",
+        "count": 2
+      },
+      {
+        "skill": "Powerapps",
+        "count": 2
+      },
+      {
+        "skill": "Powerschool",
+        "count": 9
+      },
+      {
+        "skill": "Powershell",
+        "count": 30
+      },
+      {
+        "skill": "Premiere",
+        "count": 11
+      },
+      {
+        "skill": "Presentation",
+        "count": 3
+      },
+      {
+        "skill": "Presentation Software",
+        "count": 6
+      },
+      {
+        "skill": "Presto",
+        "count": 2
+      },
+      {
+        "skill": "Primavera",
+        "count": 21
+      },
+      {
+        "skill": "Primavera P6",
+        "count": 5
+      },
+      {
+        "skill": "Prism",
+        "count": 2
+      },
+      {
+        "skill": "Pro-E",
+        "count": 2
+      },
+      {
+        "skill": "Pro-E Software",
+        "count": 3
+      },
+      {
+        "skill": "Process Mining",
+        "count": 2
+      },
+      {
+        "skill": "Procore",
+        "count": 5
+      },
+      {
+        "skill": "Product Lifecycle Management",
+        "count": 3
+      },
+      {
+        "skill": "Production Tools",
+        "count": 3
+      },
+      {
+        "skill": "Proe",
+        "count": 3
+      },
+      {
+        "skill": "Proficiency",
+        "count": 2
+      },
+      {
+        "skill": "Proficient",
+        "count": 2
+      },
+      {
+        "skill": "Project Management",
+        "count": 3
+      },
+      {
+        "skill": "Project Management Software",
+        "count": 3
+      },
+      {
+        "skill": "Project Management Tools",
+        "count": 23
+      },
+      {
+        "skill": "Prolog",
+        "count": 20
+      },
+      {
+        "skill": "Prometheus",
+        "count": 2
+      },
+      {
+        "skill": "Prompt Engineering",
+        "count": 2
+      },
+      {
+        "skill": "Property Management Systems",
+        "count": 12
+      },
+      {
+        "skill": "Protocols",
+        "count": 2
+      },
+      {
+        "skill": "Prototyping",
+        "count": 4
+      },
+      {
+        "skill": "Prototyping Tools",
+        "count": 2
+      },
+      {
+        "skill": "Psim",
+        "count": 2
+      },
+      {
+        "skill": "Pslf",
+        "count": 2
+      },
+      {
+        "skill": "Psse",
+        "count": 3
+      },
+      {
+        "skill": "Ptc Creo",
+        "count": 3
+      },
+      {
+        "skill": "Publisher",
+        "count": 3
+      },
+      {
+        "skill": "Publishing Platforms",
+        "count": 2
+      },
+      {
+        "skill": "Pulumi",
+        "count": 3
+      },
+      {
+        "skill": "Pyqt",
+        "count": 2
+      },
+      {
+        "skill": "Pyspark",
+        "count": 8
+      },
+      {
+        "skill": "Pytest",
+        "count": 5
+      },
+      {
+        "skill": "Pytorch Cuda",
+        "count": 5
+      },
+      {
+        "skill": "Qgis",
+        "count": 7
+      },
+      {
+        "skill": "Qlik",
+        "count": 5
+      },
+      {
+        "skill": "Qlik Sense",
+        "count": 2
+      },
+      {
+        "skill": "Qpcr",
+        "count": 2
+      },
+      {
+        "skill": "Qrm",
+        "count": 2
+      },
+      {
+        "skill": "Qt",
+        "count": 5
+      },
+      {
+        "skill": "Qualtrics",
+        "count": 4
+      },
+      {
+        "skill": "Qualtrics Xm Suite",
+        "count": 2
+      },
+      {
+        "skill": "Quantus",
+        "count": 4
+      },
+      {
+        "skill": "Quickbooks",
+        "count": 2
+      },
+      {
+        "skill": "Quicksight",
+        "count": 2
+      },
+      {
+        "skill": "R Shiny",
+        "count": 2
+      },
+      {
+        "skill": "Radio Frequency",
+        "count": 2
+      },
+      {
+        "skill": "Rag",
+        "count": 4
+      },
+      {
+        "skill": "Ram",
+        "count": 5
+      },
+      {
+        "skill": "Rapid Prototyping",
+        "count": 3
+      },
+      {
+        "skill": "Raspberry Pi",
+        "count": 8
+      },
+      {
+        "skill": "Rcs",
+        "count": 2
+      },
+      {
+        "skill": "Rdbms",
+        "count": 4
+      },
+      {
+        "skill": "Rds",
+        "count": 2
+      },
+      {
+        "skill": "React Native",
+        "count": 6
+      },
+      {
+        "skill": "Recording Equipment",
+        "count": 2
+      },
+      {
+        "skill": "Recording Software",
+        "count": 2
+      },
+      {
+        "skill": "Reddit",
+        "count": 2
+      },
+      {
+        "skill": "Redshift",
+        "count": 5
+      },
+      {
+        "skill": "Redux",
+        "count": 3
+      },
+      {
+        "skill": "Relap",
+        "count": 3
+      },
+      {
+        "skill": "Related Industry Software",
+        "count": 3
+      },
+      {
+        "skill": "Relational",
+        "count": 6
+      },
+      {
+        "skill": "Relational Db",
+        "count": 2
+      },
+      {
+        "skill": "Relays",
+        "count": 2
+      },
+      {
+        "skill": "Relevant Software",
+        "count": 3
+      },
+      {
+        "skill": "Relevant tools for legal research",
+        "count": 2
+      },
+      {
+        "skill": "Remote Meeting Software",
+        "count": 10
+      },
+      {
+        "skill": "Remote Sensing",
+        "count": 2
+      },
+      {
+        "skill": "Reporting",
+        "count": 3
+      },
+      {
+        "skill": "Reporting Systems",
+        "count": 2
+      },
+      {
+        "skill": "Reporting Tools",
+        "count": 7
+      },
+      {
+        "skill": "Research Methods",
+        "count": 2
+      },
+      {
+        "skill": "Research Tools",
+        "count": 2
+      },
+      {
+        "skill": "Rest",
+        "count": 11
+      },
+      {
+        "skill": "Rest Api",
+        "count": 7
+      },
+      {
+        "skill": "Rest Apis",
+        "count": 7
+      },
+      {
+        "skill": "Rest Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Rest-Ful Apis",
+        "count": 2
+      },
+      {
+        "skill": "Restful Apis",
+        "count": 10
+      },
+      {
+        "skill": "Restful Services",
+        "count": 2
+      },
+      {
+        "skill": "Revit Mep",
+        "count": 6
+      },
+      {
+        "skill": "Rf Scanners",
+        "count": 4
+      },
+      {
+        "skill": "Rf Simulation Tools",
+        "count": 2
+      },
+      {
+        "skill": "Risc-V",
+        "count": 2
+      },
+      {
+        "skill": "Robot Framework",
+        "count": 2
+      },
+      {
+        "skill": "Robotics",
+        "count": 6
+      },
+      {
+        "skill": "Ros",
+        "count": 14
+      },
+      {
+        "skill": "Ros 2",
+        "count": 2
+      },
+      {
+        "skill": "Ros2",
+        "count": 3
+      },
+      {
+        "skill": "Rpg",
+        "count": 2
+      },
+      {
+        "skill": "Rtds",
+        "count": 2
+      },
+      {
+        "skill": "Rtl Verification",
+        "count": 2
+      },
+      {
+        "skill": "Rtos",
+        "count": 4
+      },
+      {
+        "skill": "Rust Testing Tools",
+        "count": 2
+      },
+      {
+        "skill": "Rviz",
+        "count": 5
+      },
+      {
+        "skill": "S3",
+        "count": 4
+      },
+      {
+        "skill": "Saas",
+        "count": 2
+      },
+      {
+        "skill": "Safety Management Software",
+        "count": 2
+      },
+      {
+        "skill": "Sage",
+        "count": 2
+      },
+      {
+        "skill": "Salesforce",
+        "count": 95
+      },
+      {
+        "skill": "Salesforce Crm",
+        "count": 2
+      },
+      {
+        "skill": "Salesforce Marketing Cloud",
+        "count": 2
+      },
+      {
+        "skill": "Salesforce Service Cloud",
+        "count": 3
+      },
+      {
+        "skill": "Salesforce.Com",
+        "count": 9
+      },
+      {
+        "skill": "Sam",
+        "count": 3
+      },
+      {
+        "skill": "Saml",
+        "count": 4
+      },
+      {
+        "skill": "Sap",
+        "count": 52
+      },
+      {
+        "skill": "Sap 2000",
+        "count": 2
+      },
+      {
+        "skill": "Sap Abap",
+        "count": 2
+      },
+      {
+        "skill": "Sap Erp",
+        "count": 2
+      },
+      {
+        "skill": "Sap Products",
+        "count": 4
+      },
+      {
+        "skill": "Sap Software",
+        "count": 2
+      },
+      {
+        "skill": "Sap Systems",
+        "count": 2
+      },
+      {
+        "skill": "Sap2000",
+        "count": 6
+      },
+      {
+        "skill": "Sas",
+        "count": 59
+      },
+      {
+        "skill": "Sass",
+        "count": 7
+      },
+      {
+        "skill": "Scaled Agile Framework",
+        "count": 2
+      },
+      {
+        "skill": "Schematic Capture",
+        "count": 3
+      },
+      {
+        "skill": "Schematics",
+        "count": 3
+      },
+      {
+        "skill": "School Management Systems",
+        "count": 3
+      },
+      {
+        "skill": "Schrodinger",
+        "count": 2
+      },
+      {
+        "skill": "Scipy",
+        "count": 5
+      },
+      {
+        "skill": "Scrapy",
+        "count": 2
+      },
+      {
+        "skill": "Scss",
+        "count": 7
+      },
+      {
+        "skill": "Sdlc",
+        "count": 7
+      },
+      {
+        "skill": "Security",
+        "count": 2
+      },
+      {
+        "skill": "Security Concepts",
+        "count": 2
+      },
+      {
+        "skill": "Security Tools",
+        "count": 3
+      },
+      {
+        "skill": "Selenium",
+        "count": 14
+      },
+      {
+        "skill": "Sem",
+        "count": 6
+      },
+      {
+        "skill": "Sensors",
+        "count": 5
+      },
+      {
+        "skill": "Sentence Transformers",
+        "count": 2
+      },
+      {
+        "skill": "Seo",
+        "count": 11
+      },
+      {
+        "skill": "Serial",
+        "count": 2
+      },
+      {
+        "skill": "Servicenow",
+        "count": 12
+      },
+      {
+        "skill": "Shaders",
+        "count": 2
+      },
+      {
+        "skill": "Sharepoint",
+        "count": 96
+      },
+      {
+        "skill": "Shell",
+        "count": 13
+      },
+      {
+        "skill": "Shiny",
+        "count": 2
+      },
+      {
+        "skill": "Shopify",
+        "count": 13
+      },
+      {
+        "skill": "Siem",
+        "count": 4
+      },
+      {
+        "skill": "Siemens Dcs Control System",
+        "count": 2
+      },
+      {
+        "skill": "Siemens Nx",
+        "count": 6
+      },
+      {
+        "skill": "Siemens Star-Ccm+",
+        "count": 2
+      },
+      {
+        "skill": "Signal Analyzer",
+        "count": 2
+      },
+      {
+        "skill": "Signal Generator",
+        "count": 3
+      },
+      {
+        "skill": "Signal Generators",
+        "count": 6
+      },
+      {
+        "skill": "Signal Processing",
+        "count": 4
+      },
+      {
+        "skill": "Simcenter",
+        "count": 2
+      },
+      {
+        "skill": "Similar",
+        "count": 5
+      },
+      {
+        "skill": "Simulation",
+        "count": 2
+      },
+      {
+        "skill": "Simulation Software",
+        "count": 3
+      },
+      {
+        "skill": "Simulation Tools",
+        "count": 6
+      },
+      {
+        "skill": "Simulators",
+        "count": 2
+      },
+      {
+        "skill": "Simulink",
+        "count": 35
+      },
+      {
+        "skill": "Simulink Simpowersystems",
+        "count": 2
+      },
+      {
+        "skill": "Sitefinity",
+        "count": 2
+      },
+      {
+        "skill": "Six Sigma",
+        "count": 5
+      },
+      {
+        "skill": "Sketch Up",
+        "count": 10
+      },
+      {
+        "skill": "Sketch-Up",
+        "count": 5
+      },
+      {
+        "skill": "Sketchup",
+        "count": 24
+      },
+      {
+        "skill": "Sklearn",
+        "count": 9
+      },
+      {
+        "skill": "Skm",
+        "count": 2
+      },
+      {
+        "skill": "Skm Power Tools",
+        "count": 3
+      },
+      {
+        "skill": "Slack",
+        "count": 13
+      },
+      {
+        "skill": "Slides",
+        "count": 25
+      },
+      {
+        "skill": "Smart Phones",
+        "count": 8
+      },
+      {
+        "skill": "Smart Sheets",
+        "count": 2
+      },
+      {
+        "skill": "Smartsheets",
+        "count": 6
+      },
+      {
+        "skill": "Snapchat",
+        "count": 4
+      },
+      {
+        "skill": "Snowflake",
+        "count": 27
+      },
+      {
+        "skill": "Social Media",
+        "count": 22
+      },
+      {
+        "skill": "Social Media Content Creation",
+        "count": 2
+      },
+      {
+        "skill": "Social Media Management Tools",
+        "count": 2
+      },
+      {
+        "skill": "Social Media Marketing",
+        "count": 3
+      },
+      {
+        "skill": "Social Media Platforms",
+        "count": 63
+      },
+      {
+        "skill": "Social Media Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Social Media Tools",
+        "count": 4
+      },
+      {
+        "skill": "Social Media Trends",
+        "count": 2
+      },
+      {
+        "skill": "Social Networking Tools",
+        "count": 4
+      },
+      {
+        "skill": "Software",
+        "count": 42
+      },
+      {
+        "skill": "Software Architecture",
+        "count": 2
+      },
+      {
+        "skill": "Software Development",
+        "count": 9
+      },
+      {
+        "skill": "Software Development Tools",
+        "count": 2
+      },
+      {
+        "skill": "Software Engineering",
+        "count": 3
+      },
+      {
+        "skill": "Software Packages",
+        "count": 2
+      },
+      {
+        "skill": "Software Tools",
+        "count": 2
+      },
+      {
+        "skill": "Solaris",
+        "count": 2
+      },
+      {
+        "skill": "Solid Edge",
+        "count": 2
+      },
+      {
+        "skill": "Solidedge",
+        "count": 3
+      },
+      {
+        "skill": "Solidity",
+        "count": 4
+      },
+      {
+        "skill": "Solidworks Simulation",
+        "count": 2
+      },
+      {
+        "skill": "Source Control",
+        "count": 3
+      },
+      {
+        "skill": "Source Version Control",
+        "count": 2
+      },
+      {
+        "skill": "Spacy",
+        "count": 2
+      },
+      {
+        "skill": "Spark",
+        "count": 16
+      },
+      {
+        "skill": "Spectre",
+        "count": 5
+      },
+      {
+        "skill": "Spectrum Analyzers",
+        "count": 5
+      },
+      {
+        "skill": "Spi",
+        "count": 7
+      },
+      {
+        "skill": "Spice",
+        "count": 8
+      },
+      {
+        "skill": "Splunk",
+        "count": 3
+      },
+      {
+        "skill": "Spotfire",
+        "count": 3
+      },
+      {
+        "skill": "Spreadsheet",
+        "count": 21
+      },
+      {
+        "skill": "Spreadsheet Software",
+        "count": 23
+      },
+      {
+        "skill": "Spreadsheet Software Programs",
+        "count": 2
+      },
+      {
+        "skill": "Spreadsheets",
+        "count": 57
+      },
+      {
+        "skill": "Spring Boot",
+        "count": 5
+      },
+      {
+        "skill": "Springboot",
+        "count": 5
+      },
+      {
+        "skill": "Sprout Social",
+        "count": 7
+      },
+      {
+        "skill": "Spss",
+        "count": 5
+      },
+      {
+        "skill": "Sqlite",
+        "count": 2
+      },
+      {
+        "skill": "Ssh",
+        "count": 2
+      },
+      {
+        "skill": "Star",
+        "count": 2
+      },
+      {
+        "skill": "Statistical Analysis",
+        "count": 8
+      },
+      {
+        "skill": "Statistical Analysis Tools",
+        "count": 2
+      },
+      {
+        "skill": "Statistical Methods",
+        "count": 3
+      },
+      {
+        "skill": "Statistical Process Control",
+        "count": 2
+      },
+      {
+        "skill": "Statistical Software",
+        "count": 7
+      },
+      {
+        "skill": "Statistics",
+        "count": 15
+      },
+      {
+        "skill": "Stlc",
+        "count": 2
+      },
+      {
+        "skill": "Stm32",
+        "count": 2
+      },
+      {
+        "skill": "Storm",
+        "count": 2
+      },
+      {
+        "skill": "Stratajazz",
+        "count": 2
+      },
+      {
+        "skill": "Strong Coding Proficiency",
+        "count": 2
+      },
+      {
+        "skill": "Strong Computer",
+        "count": 2
+      },
+      {
+        "skill": "Strong Computer Skills",
+        "count": 3
+      },
+      {
+        "skill": "Strong Pc Skills",
+        "count": 3
+      },
+      {
+        "skill": "Structural Analysis Software",
+        "count": 2
+      },
+      {
+        "skill": "Structured Text",
+        "count": 2
+      },
+      {
+        "skill": "Sts",
+        "count": 2
+      },
+      {
+        "skill": "Substance",
+        "count": 4
+      },
+      {
+        "skill": "Svelte",
+        "count": 2
+      },
+      {
+        "skill": "Svn",
+        "count": 4
+      },
+      {
+        "skill": "Switches",
+        "count": 3
+      },
+      {
+        "skill": "Swmm",
+        "count": 3
+      },
+      {
+        "skill": "Sycl",
+        "count": 2
+      },
+      {
+        "skill": "Synchro",
+        "count": 4
+      },
+      {
+        "skill": "Synergi",
+        "count": 2
+      },
+      {
+        "skill": "System",
+        "count": 2
+      },
+      {
+        "skill": "System Verilog",
+        "count": 10
+      },
+      {
+        "skill": "Systems",
+        "count": 4
+      },
+      {
+        "skill": "Systems Architecture",
+        "count": 2
+      },
+      {
+        "skill": "Systemverilog",
+        "count": 36
+      },
+      {
+        "skill": "T-Sql",
+        "count": 6
+      },
+      {
+        "skill": "Tablets",
+        "count": 8
+      },
+      {
+        "skill": "Tax Software",
+        "count": 21
+      },
+      {
+        "skill": "Tcl",
+        "count": 22
+      },
+      {
+        "skill": "Tcp",
+        "count": 10
+      },
+      {
+        "skill": "Tdr",
+        "count": 2
+      },
+      {
+        "skill": "Teamcenter",
+        "count": 7
+      },
+      {
+        "skill": "Technical Skills",
+        "count": 2
+      },
+      {
+        "skill": "Technical Writing",
+        "count": 21
+      },
+      {
+        "skill": "Technologies",
+        "count": 3
+      },
+      {
+        "skill": "Technology",
+        "count": 23
+      },
+      {
+        "skill": "Technology Systems",
+        "count": 2
+      },
+      {
+        "skill": "Tekla",
+        "count": 6
+      },
+      {
+        "skill": "Telecommunications",
+        "count": 2
+      },
+      {
+        "skill": "Test Automation Tools",
+        "count": 2
+      },
+      {
+        "skill": "Test Equipment",
+        "count": 10
+      },
+      {
+        "skill": "Test Instrumentation",
+        "count": 2
+      },
+      {
+        "skill": "Testing",
+        "count": 3
+      },
+      {
+        "skill": "Testing Methodologies",
+        "count": 2
+      },
+      {
+        "skill": "Testng",
+        "count": 9
+      },
+      {
+        "skill": "Texture Compression",
+        "count": 2
+      },
+      {
+        "skill": "Tibco Spotfire",
+        "count": 2
+      },
+      {
+        "skill": "Ticketing Systems",
+        "count": 2
+      },
+      {
+        "skill": "Tidyverse",
+        "count": 3
+      },
+      {
+        "skill": "Tiktok",
+        "count": 24
+      },
+      {
+        "skill": "Tissue Culture",
+        "count": 3
+      },
+      {
+        "skill": "Tls",
+        "count": 2
+      },
+      {
+        "skill": "Tools",
+        "count": 34
+      },
+      {
+        "skill": "Torch",
+        "count": 2
+      },
+      {
+        "skill": "Trane Trace",
+        "count": 2
+      },
+      {
+        "skill": "Transformers",
+        "count": 2
+      },
+      {
+        "skill": "Trendstar",
+        "count": 2
+      },
+      {
+        "skill": "Trimble Business Center",
+        "count": 2
+      },
+      {
+        "skill": "Tulip",
+        "count": 2
+      },
+      {
+        "skill": "Twitter",
+        "count": 14
+      },
+      {
+        "skill": "Ubuntu",
+        "count": 4
+      },
+      {
+        "skill": "Ui",
+        "count": 3
+      },
+      {
+        "skill": "Ui Development",
+        "count": 2
+      },
+      {
+        "skill": "Ui Technologies",
+        "count": 5
+      },
+      {
+        "skill": "Uipath",
+        "count": 2
+      },
+      {
+        "skill": "Unifi",
+        "count": 2
+      },
+      {
+        "skill": "Unit",
+        "count": 2
+      },
+      {
+        "skill": "Unit Testing",
+        "count": 4
+      },
+      {
+        "skill": "Unity",
+        "count": 14
+      },
+      {
+        "skill": "Unix",
+        "count": 48
+      },
+      {
+        "skill": "Unix Shell",
+        "count": 6
+      },
+      {
+        "skill": "Unix Systems",
+        "count": 9
+      },
+      {
+        "skill": "Unreal",
+        "count": 5
+      },
+      {
+        "skill": "Unreal Engine",
+        "count": 23
+      },
+      {
+        "skill": "Unreal Engine 4",
+        "count": 2
+      },
+      {
+        "skill": "Unreal Engine 5",
+        "count": 2
+      },
+      {
+        "skill": "Usability Testing",
+        "count": 2
+      },
+      {
+        "skill": "User Research",
+        "count": 2
+      },
+      {
+        "skill": "Usertesting",
+        "count": 4
+      },
+      {
+        "skill": "Uv-Vis",
+        "count": 2
+      },
+      {
+        "skill": "Uvm",
+        "count": 5
+      },
+      {
+        "skill": "V-Ray",
+        "count": 3
+      },
+      {
+        "skill": "Vault",
+        "count": 2
+      },
+      {
+        "skill": "Vb",
+        "count": 4
+      },
+      {
+        "skill": "Vb.Net",
+        "count": 5
+      },
+      {
+        "skill": "Vba",
+        "count": 44
+      },
+      {
+        "skill": "Vectorworks",
+        "count": 3
+      },
+      {
+        "skill": "Verilog",
+        "count": 53
+      },
+      {
+        "skill": "Verilog-A",
+        "count": 2
+      },
+      {
+        "skill": "Version Control Systems",
+        "count": 7
+      },
+      {
+        "skill": "Vhdl",
+        "count": 21
+      },
+      {
+        "skill": "Video",
+        "count": 2
+      },
+      {
+        "skill": "Video Conferencing Tools",
+        "count": 4
+      },
+      {
+        "skill": "Video Editing",
+        "count": 14
+      },
+      {
+        "skill": "Video Editing Software",
+        "count": 18
+      },
+      {
+        "skill": "Video Editing Tools",
+        "count": 2
+      },
+      {
+        "skill": "Virtualization",
+        "count": 2
+      },
+      {
+        "skill": "Virtuoso",
+        "count": 2
+      },
+      {
+        "skill": "Visual Basic",
+        "count": 17
+      },
+      {
+        "skill": "Visual C#",
+        "count": 2
+      },
+      {
+        "skill": "Visual Design",
+        "count": 4
+      },
+      {
+        "skill": "Visual Studio",
+        "count": 10
+      },
+      {
+        "skill": "Visual Studio Code",
+        "count": 3
+      },
+      {
+        "skill": "Visualization",
+        "count": 4
+      },
+      {
+        "skill": "Visualization Tools",
+        "count": 9
+      },
+      {
+        "skill": "Vlms",
+        "count": 2
+      },
+      {
+        "skill": "Vlookup",
+        "count": 4
+      },
+      {
+        "skill": "Vlookups",
+        "count": 3
+      },
+      {
+        "skill": "Vlsi",
+        "count": 3
+      },
+      {
+        "skill": "Vmware",
+        "count": 2
+      },
+      {
+        "skill": "Voltus-Fi",
+        "count": 3
+      },
+      {
+        "skill": "Vulkan",
+        "count": 5
+      },
+      {
+        "skill": "Vyond",
+        "count": 2
+      },
+      {
+        "skill": "Warehouse Management System",
+        "count": 4
+      },
+      {
+        "skill": "Web",
+        "count": 4
+      },
+      {
+        "skill": "Web Development",
+        "count": 2
+      },
+      {
+        "skill": "Web Development Frameworks",
+        "count": 2
+      },
+      {
+        "skill": "Web Development Languages",
+        "count": 3
+      },
+      {
+        "skill": "Web Frameworks",
+        "count": 4
+      },
+      {
+        "skill": "Web Services",
+        "count": 3
+      },
+      {
+        "skill": "Web Technologies",
+        "count": 2
+      },
+      {
+        "skill": "Web-Based Research",
+        "count": 2
+      },
+      {
+        "skill": "Webassign",
+        "count": 3
+      },
+      {
+        "skill": "Webex",
+        "count": 5
+      },
+      {
+        "skill": "Webflow",
+        "count": 2
+      },
+      {
+        "skill": "Welding Automation",
+        "count": 2
+      },
+      {
+        "skill": "Westlaw",
+        "count": 10
+      },
+      {
+        "skill": "Wi-Fi Issues",
+        "count": 2
+      },
+      {
+        "skill": "Wiki",
+        "count": 2
+      },
+      {
+        "skill": "Windows",
+        "count": 163
+      },
+      {
+        "skill": "Windows Based Applications",
+        "count": 3
+      },
+      {
+        "skill": "Windows Operating Systems",
+        "count": 4
+      },
+      {
+        "skill": "Windows-Based Software",
+        "count": 4
+      },
+      {
+        "skill": "Wire-Framing Tools",
+        "count": 5
+      },
+      {
+        "skill": "Woocommerce",
+        "count": 4
+      },
+      {
+        "skill": "Workday",
+        "count": 8
+      },
+      {
+        "skill": "Workflow Automation",
+        "count": 2
+      },
+      {
+        "skill": "Working knowledge of computers",
+        "count": 2
+      },
+      {
+        "skill": "Wpf",
+        "count": 3
+      },
+      {
+        "skill": "Wrike",
+        "count": 3
+      },
+      {
+        "skill": "Xcalibur",
+        "count": 2
+      },
+      {
+        "skill": "Xml",
+        "count": 13
+      },
+      {
+        "skill": "Xpath",
+        "count": 3
+      },
+      {
+        "skill": "Xpress",
+        "count": 2
+      },
+      {
+        "skill": "Yardi",
+        "count": 2
+      },
+      {
+        "skill": "Yocto",
+        "count": 2
+      },
+      {
+        "skill": "Youtube",
+        "count": 13
+      },
+      {
+        "skill": "Zbrush",
+        "count": 2
+      },
+      {
+        "skill": "Zemax",
+        "count": 4
+      },
+      {
+        "skill": "Zendesk",
+        "count": 2
+      },
+      {
+        "skill": "Zoom",
+        "count": 12
+      },
+      {
+        "skill": "adapt to current technology needs",
+        "count": 2
+      },
+      {
+        "skill": "mass spectrometry instrumentation",
+        "count": 2
+      },
+      {
+        "skill": "modern software development tools",
+        "count": 2
+      },
+      {
+        "skill": "software development methodologies",
+        "count": 4
+      }
+    ]
+  },
+  "category_summary": {
+    "Programming Languages": {
+      "total_skills": 56,
+      "total_occurrences": 5278
+    },
+    "Microsoft Office": {
+      "total_skills": 61,
+      "total_occurrences": 9604
+    },
+    "Data Science & Analytics": {
+      "total_skills": 100,
+      "total_occurrences": 1760
+    },
+    "Web Development": {
+      "total_skills": 11,
+      "total_occurrences": 432
+    },
+    "Cloud & DevOps": {
+      "total_skills": 8,
+      "total_occurrences": 448
+    },
+    "Design Software": {
+      "total_skills": 68,
+      "total_occurrences": 2241
+    },
+    "Database": {
+      "total_skills": 8,
+      "total_occurrences": 144
+    },
+    "Project Management": {
+      "total_skills": 9,
+      "total_occurrences": 141
+    },
+    "Other Skills": {
+      "total_skills": 1198,
+      "total_occurrences": 8262
+    }
+  }
+}
