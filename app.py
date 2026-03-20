@@ -2884,16 +2884,10 @@ def main():
     # Create the combined dashboard
     app= create_combined_dashboard()
     
-    # Run the dashboard on port 8055 (between the original ports 8060 and 8061)
-    port = 8054
-    # Open automatically in browser
-    import webbrowser
-    import threading
-    url = f"http://127.0.0.1:{port}/"
-    threading.Timer(1.5, lambda: webbrowser.open(url)).start()
-    
-    # Run the app
-    app.run(debug=False, port=port, use_reloader=False)
+   
+port = int(os.environ.get("PORT", 10000))
+
+app.run(host="0.0.0.0", port=port, debug=False)
 
 if __name__ == "__main__":
     main()
